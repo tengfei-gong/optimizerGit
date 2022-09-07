@@ -1,0 +1,1904 @@
+Hand: 0,  contestTier: RM,  TotalFP: 96.30000000000001,  stacked: false
+Lamar Jackson,  TIER:RM,  SERIAL:1,  FP:24.9,  POS:QB,  OrigPOS:QB,  SS:true,  Team:CHI
+Alvin Kamara,  TIER:RM,  SERIAL:1,  FP:18.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NO
+Travis Kelce,  TIER:LEGEND,  SERIAL:1,  FP:17.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
+Derek Carr,  TIER:LEGEND,  SERIAL:4,  FP:17.8,  POS:FLEX,  OrigPOS:RB,  SS:false,  Team:LV
+Davis Mills,  TIER:LEGEND,  SERIAL:10,  FP:17.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
+
+Hand: 1,  contestTier: RM,  TotalFP: 90.0,  stacked: false
+Justin Herbert,  TIER:RM,  SERIAL:1,  FP:20.8,  POS:QB,  OrigPOS:QB,  SS:true,  Team:LAC
+Travis Kelce,  TIER:RM,  SERIAL:1,  FP:17.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
+Alvin Kamara,  TIER:LEGEND,  SERIAL:5,  FP:18.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NO
+Stefon Diggs,  TIER:LEGEND,  SERIAL:2,  FP:16.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Mark Andrews,  TIER:LEGEND,  SERIAL:2,  FP:16.0,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:BAL
+
+Hand: 2,  contestTier: RM,  TotalFP: 80.2,  stacked: true
+Aaron Rodgers,  TIER:RM,  SERIAL:1,  FP:20.2,  POS:QB,  OrigPOS:QB,  SS:true,  Team:GB
+Derek Carr,  TIER:RM,  SERIAL:1,  FP:17.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+Mark Andrews,  TIER:LEGEND,  SERIAL:6,  FP:16.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:BAL
+Allen Lazard,  TIER:LEGEND,  SERIAL:1,  FP:11.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:GB
+A.J. Brown,  TIER:LEGEND,  SERIAL:9,  FP:14.9,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:PHI
+
+Hand: 3,  contestTier: RM,  TotalFP: 82.2,  stacked: false
+Trey Lance,  TIER:RM,  SERIAL:1,  FP:19.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
+Stefon Diggs,  TIER:RM,  SERIAL:1,  FP:16.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Mark Andrews,  TIER:LEGEND,  SERIAL:6,  FP:16.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:BAL
+Tyreek Hill,  TIER:LEGEND,  SERIAL:3,  FP:15.8,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:MIA
+Saquon Barkley,  TIER:LEGEND,  SERIAL:2,  FP:14.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYG
+
+Hand: 4,  contestTier: RM,  TotalFP: 75.4,  stacked: true
+Joe Burrow,  TIER:RM,  SERIAL:1,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+Michael Thomas,  TIER:RM,  SERIAL:1,  FP:12.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CIN
+Mark Andrews,  TIER:LEGEND,  SERIAL:10,  FP:16.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:BAL
+Saquon Barkley,  TIER:LEGEND,  SERIAL:4,  FP:14.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYG
+Brandin Cooks,  TIER:LEGEND,  SERIAL:8,  FP:14.4,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:HOU
+
+Hand: 5,  contestTier: RM,  TotalFP: 75.69999999999999,  stacked: false
+Daniel Jones,  TIER:RM,  SERIAL:1,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+Terry McLaurin,  TIER:RM,  SERIAL:1,  FP:15.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:WAS
+Saquon Barkley,  TIER:LEGEND,  SERIAL:9,  FP:14.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYG
+Joe Mixon,  TIER:LEGEND,  SERIAL:3,  FP:14.3,  POS:FLEX,  OrigPOS:RB,  SS:false,  Team:CIN
+Tee Higgins,  TIER:LEGEND,  SERIAL:1,  FP:14.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+
+Hand: 6,  contestTier: RM,  TotalFP: 72.30000000000001,  stacked: false
+Daniel Jones,  TIER:RM,  SERIAL:2,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+George Kittle,  TIER:RM,  SERIAL:1,  FP:13.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:SF
+Tee Higgins,  TIER:LEGEND,  SERIAL:4,  FP:14.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CIN
+Aaron Jones,  TIER:LEGEND,  SERIAL:3,  FP:13.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:GB
+Amon-Ra St. Brown,  TIER:LEGEND,  SERIAL:2,  FP:13.4,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:DET
+
+Hand: 7,  contestTier: RM,  TotalFP: 69.80000000000001,  stacked: false
+Mac Jones,  TIER:RM,  SERIAL:1,  FP:15.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NE
+Gabriel Davis,  TIER:RM,  SERIAL:1,  FP:12.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Tee Higgins,  TIER:LEGEND,  SERIAL:4,  FP:14.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Aaron Jones,  TIER:LEGEND,  SERIAL:6,  FP:13.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:GB
+Amon-Ra St. Brown,  TIER:LEGEND,  SERIAL:3,  FP:13.4,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:DET
+
+Hand: 8,  contestTier: RM,  TotalFP: 73.6,  stacked: false
+Kyle Pitts,  TIER:RM,  SERIAL:1,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Amari Cooper,  TIER:RM,  SERIAL:1,  FP:11.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Jalen Hurts,  TIER:LEGEND,  SERIAL:6,  FP:24.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:PHI
+George Kittle,  TIER:LEGEND,  SERIAL:4,  FP:13.4,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:SF
+Javonte Williams,  TIER:LEGEND,  SERIAL:6,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DEN
+
+Hand: 9,  contestTier: RM,  TotalFP: 72.8,  stacked: false
+Amari Cooper,  TIER:RM,  SERIAL:1,  FP:11.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Jaylen Waddle,  TIER:RM,  SERIAL:1,  FP:11.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:MIA
+Jalen Hurts,  TIER:LEGEND,  SERIAL:7,  FP:24.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:PHI
+Amon-Ra St. Brown,  TIER:LEGEND,  SERIAL:4,  FP:13.4,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:DET
+J.K. Dobbins,  TIER:LEGEND,  SERIAL:2,  FP:11.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
+
+Hand: 10,  contestTier: RM,  TotalFP: 72.5,  stacked: false
+Amari Cooper,  TIER:RM,  SERIAL:1,  FP:11.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Christian Kirk,  TIER:RM,  SERIAL:1,  FP:11.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:JAX
+Jalen Hurts,  TIER:LEGEND,  SERIAL:9,  FP:24.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:PHI
+George Kittle,  TIER:LEGEND,  SERIAL:8,  FP:13.4,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:SF
+Cordarrelle Patterson,  TIER:LEGEND,  SERIAL:5,  FP:11.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ATL
+
+Hand: 11,  contestTier: RM,  TotalFP: 69.7,  stacked: false
+Corey Davis,  TIER:RM,  SERIAL:1,  FP:11.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYJ
+Cam Akers,  TIER:RM,  SERIAL:1,  FP:11.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LAR
+Kyler Murray,  TIER:LEGEND,  SERIAL:2,  FP:20.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ARI
+Amon-Ra St. Brown,  TIER:LEGEND,  SERIAL:8,  FP:13.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DET
+George Kittle,  TIER:LEGEND,  SERIAL:9,  FP:13.4,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:SF
+
+Hand: 12,  contestTier: RM,  TotalFP: 65.9,  stacked: false
+Darren Waller,  TIER:RM,  SERIAL:1,  FP:11.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LV
+Diontae Johnson,  TIER:RM,  SERIAL:1,  FP:11.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
+Kyler Murray,  TIER:LEGEND,  SERIAL:10,  FP:20.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ARI
+Tyler Lockett,  TIER:LEGEND,  SERIAL:2,  FP:13.1,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:SEA
+Clyde Edwards-Helaire,  TIER:LEGEND,  SERIAL:1,  FP:10.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:KC
+
+Hand: 13,  contestTier: RM,  TotalFP: 63.400000000000006,  stacked: false
+Jerry Jeudy,  TIER:RM,  SERIAL:1,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DEN
+Rondale Moore,  TIER:RM,  SERIAL:1,  FP:10.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:ARI
+Carson Wentz,  TIER:LEGEND,  SERIAL:9,  FP:20.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+Gabriel Davis,  TIER:LEGEND,  SERIAL:6,  FP:12.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:BUF
+Kareem Hunt,  TIER:LEGEND,  SERIAL:8,  FP:9.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+
+Hand: 14,  contestTier: RM,  TotalFP: 61.4,  stacked: false
+Brandon Aiyuk,  TIER:RM,  SERIAL:1,  FP:9.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:SF
+Chase Claypool,  TIER:RM,  SERIAL:1,  FP:9.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:PIT
+Dak Prescott,  TIER:LEGEND,  SERIAL:1,  FP:19.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DAL
+Gabriel Davis,  TIER:LEGEND,  SERIAL:9,  FP:12.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:BUF
+Miles Sanders,  TIER:LEGEND,  SERIAL:1,  FP:9.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+
+Hand: 15,  contestTier: RM,  TotalFP: 60.3,  stacked: false
+Chase Claypool,  TIER:RM,  SERIAL:1,  FP:9.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
+Wan'Dale Robinson,  TIER:RM,  SERIAL:1,  FP:9.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYG
+Dak Prescott,  TIER:LEGEND,  SERIAL:4,  FP:19.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DAL
+C.J. Mosley,  TIER:LEGEND,  SERIAL:2,  FP:12.4,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:NYJ
+Damien Harris,  TIER:LEGEND,  SERIAL:2,  FP:9.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+
+Hand: 16,  contestTier: RM,  TotalFP: 59.1,  stacked: false
+Wan'Dale Robinson,  TIER:RM,  SERIAL:2,  FP:9.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Eddie Jackson,  TIER:RM,  SERIAL:1,  FP:8.9,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:CHI
+Dak Prescott,  TIER:LEGEND,  SERIAL:7,  FP:19.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DAL
+Kyle Pitts,  TIER:LEGEND,  SERIAL:1,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Chase Edmonds,  TIER:LEGEND,  SERIAL:3,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+
+Hand: 17,  contestTier: RM,  TotalFP: 57.49999999999999,  stacked: false
+Younghoe Koo,  TIER:RM,  SERIAL:1,  FP:8.7,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:ATL
+A.J. Green,  TIER:RM,  SERIAL:1,  FP:8.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ARI
+Russell Wilson,  TIER:LEGEND,  SERIAL:2,  FP:19.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DEN
+Kyle Pitts,  TIER:LEGEND,  SERIAL:6,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Greg Zuerlein,  TIER:LEGEND,  SERIAL:6,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYJ
+
+Hand: 18,  contestTier: RM,  TotalFP: 53.900000000000006,  stacked: true
+Dez Fitzpatrick,  TIER:RM,  SERIAL:1,  FP:5.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Ryan Succop,  TIER:RM,  SERIAL:1,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:TB
+Ryan Tannehill,  TIER:LEGEND,  SERIAL:2,  FP:19.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+Kyle Pitts,  TIER:LEGEND,  SERIAL:7,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Breece Hall,  TIER:LEGEND,  SERIAL:15,  FP:8.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYJ
+
+Hand: 19,  contestTier: RM,  TotalFP: 55.7,  stacked: false
+A.J. Green,  TIER:RM,  SERIAL:2,  FP:8.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ARI
+Graham Gano,  TIER:RM,  SERIAL:1,  FP:8.3,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NYG
+Ryan Tannehill,  TIER:LEGEND,  SERIAL:4,  FP:19.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+Michael Thomas,  TIER:LEGEND,  SERIAL:1,  FP:12.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Nyheim Hines,  TIER:LEGEND,  SERIAL:10,  FP:7.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:IND
+
+Hand: 20,  contestTier: RM,  TotalFP: 53.300000000000004,  stacked: true
+T.J. Hockenson,  TIER:RM,  SERIAL:1,  FP:8.3,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:DET
+Tyler Bass,  TIER:RM,  SERIAL:1,  FP:8.2,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:BUF
+Ryan Tannehill,  TIER:LEGEND,  SERIAL:8,  FP:19.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+Robert Woods,  TIER:LEGEND,  SERIAL:4,  FP:10.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Mike Gesicki,  TIER:LEGEND,  SERIAL:2,  FP:7.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+
+Hand: 21,  contestTier: RM,  TotalFP: 52.800000000000004,  stacked: false
+John Johnson III,  TIER:RM,  SERIAL:1,  FP:8.0,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:CLE
+Christian Watson,  TIER:RM,  SERIAL:1,  FP:7.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:GB
+Joe Burrow,  TIER:LEGEND,  SERIAL:10,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+Michael Thomas,  TIER:LEGEND,  SERIAL:8,  FP:12.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Rhamondre Stevenson,  TIER:LEGEND,  SERIAL:8,  FP:7.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+
+Hand: 22,  contestTier: RM,  TotalFP: 55.3,  stacked: true
+Brian Burns,  TIER:RM,  SERIAL:1,  FP:7.5,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:CAR
+Jamaal Williams,  TIER:RM,  SERIAL:1,  FP:7.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DET
+Trevor Lawrence,  TIER:LEGEND,  SERIAL:6,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+Marvin Jones Jr.,  TIER:LEGEND,  SERIAL:9,  FP:10.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Adam Thielen,  TIER:LEGEND,  SERIAL:10,  FP:11.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:MIN
+
+Hand: 23,  contestTier: RM,  TotalFP: 55.599999999999994,  stacked: true
+Michael Carter,  TIER:RM,  SERIAL:1,  FP:7.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYJ
+Jaire Alexander,  TIER:RM,  SERIAL:1,  FP:7.1,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:GB
+Derek Carr,  TIER:LEGEND,  SERIAL:7,  FP:17.8,  POS:QB,  OrigPOS:QB,  SS:false,  Team:LV
+Hunter Renfrow,  TIER:LEGEND,  SERIAL:3,  FP:11.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LV
+Amari Cooper,  TIER:LEGEND,  SERIAL:1,  FP:11.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CLE
+
+Hand: 24,  contestTier: RM,  TotalFP: 55.4,  stacked: false
+Kenneth Walker III,  TIER:RM,  SERIAL:1,  FP:7.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SEA
+Byron Pringle,  TIER:RM,  SERIAL:1,  FP:6.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CHI
+Kirk Cousins,  TIER:LEGEND,  SERIAL:9,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIN
+David Montgomery,  TIER:LEGEND,  SERIAL:5,  FP:12.0,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:CHI
+DeVonta Smith,  TIER:LEGEND,  SERIAL:2,  FP:11.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:PHI
+
+Hand: 25,  contestTier: RM,  TotalFP: 44.800000000000004,  stacked: true
+Grady Jarrett,  TIER:RM,  SERIAL:1,  FP:5.7,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:ATL
+Ty Montgomery,  TIER:RM,  SERIAL:1,  FP:2.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+Matt Ryan,  TIER:LEGEND,  SERIAL:6,  FP:17.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
+Alec Pierce,  TIER:LEGEND,  SERIAL:14,  FP:7.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:IND
+Darren Waller,  TIER:LEGEND,  SERIAL:2,  FP:11.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LV
+
+Hand: 26,  contestTier: RM,  TotalFP: 45.2,  stacked: false
+Boye Mafe,  TIER:RM,  SERIAL:1,  FP:3.8,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:SEA
+Tevin Coleman,  TIER:RM,  SERIAL:1,  FP:1.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYJ
+Matt Ryan,  TIER:LEGEND,  SERIAL:9,  FP:17.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
+Darnell Mooney,  TIER:LEGEND,  SERIAL:2,  FP:11.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CHI
+Darren Waller,  TIER:LEGEND,  SERIAL:3,  FP:11.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LV
+
+Hand: 27,  contestTier: LEGEND,  TotalFP: 77.2,  stacked: false
+Phidarian Mathis,  TIER:RM,  SERIAL:1,  FP:2.8,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:WAS
+Lamar Jackson,  TIER:LEGEND,  SERIAL:1,  FP:24.9,  POS:QB,  OrigPOS:QB,  SS:true,  Team:CHI
+Travis Kelce,  TIER:ELITE,  SERIAL:3,  FP:17.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
+Stefon Diggs,  TIER:ELITE,  SERIAL:4,  FP:16.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Leonard Fournette,  TIER:ELITE,  SERIAL:1,  FP:14.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:TB
+
+Hand: 28,  contestTier: LEGEND,  TotalFP: 86.0,  stacked: false
+Lamar Jackson,  TIER:LEGEND,  SERIAL:5,  FP:24.9,  POS:QB,  OrigPOS:QB,  SS:true,  Team:CHI
+Devin Lloyd,  TIER:LEGEND,  SERIAL:4,  FP:11.6,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:JAX
+Travis Kelce,  TIER:ELITE,  SERIAL:13,  FP:17.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
+Stefon Diggs,  TIER:ELITE,  SERIAL:10,  FP:16.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Leonard Fournette,  TIER:ELITE,  SERIAL:50,  FP:14.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:TB
+
+Hand: 29,  contestTier: LEGEND,  TotalFP: 82.99999999999999,  stacked: false
+Josh Allen,  TIER:LEGEND,  SERIAL:1,  FP:22.6,  POS:QB,  OrigPOS:QB,  SS:true,  Team:JAX
+Darnell Mooney,  TIER:LEGEND,  SERIAL:5,  FP:11.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CHI
+Travis Kelce,  TIER:ELITE,  SERIAL:19,  FP:17.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
+Stefon Diggs,  TIER:ELITE,  SERIAL:20,  FP:16.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:BUF
+D'Andre Swift,  TIER:ELITE,  SERIAL:20,  FP:14.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DET
+
+Hand: 30,  contestTier: LEGEND,  TotalFP: 82.79999999999998,  stacked: false
+Josh Allen,  TIER:LEGEND,  SERIAL:5,  FP:22.6,  POS:QB,  OrigPOS:QB,  SS:true,  Team:JAX
+Darnell Mooney,  TIER:LEGEND,  SERIAL:10,  FP:11.2,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:CHI
+Travis Kelce,  TIER:ELITE,  SERIAL:22,  FP:17.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
+Mike Evans,  TIER:ELITE,  SERIAL:4,  FP:16.5,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+D'Andre Swift,  TIER:ELITE,  SERIAL:39,  FP:14.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DET
+
+Hand: 31,  contestTier: LEGEND,  TotalFP: 78.89999999999999,  stacked: false
+Patrick Mahomes,  TIER:LEGEND,  SERIAL:6,  FP:22.4,  POS:QB,  OrigPOS:QB,  SS:true,  Team:KC
+Diontae Johnson,  TIER:LEGEND,  SERIAL:8,  FP:11.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
+Mark Andrews,  TIER:ELITE,  SERIAL:4,  FP:16.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:BAL
+Terry McLaurin,  TIER:ELITE,  SERIAL:5,  FP:15.2,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:WAS
+Joe Mixon,  TIER:ELITE,  SERIAL:18,  FP:14.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CIN
+
+Hand: 32,  contestTier: LEGEND,  TotalFP: 78.4,  stacked: false
+Patrick Mahomes,  TIER:LEGEND,  SERIAL:10,  FP:22.4,  POS:QB,  OrigPOS:QB,  SS:true,  Team:KC
+Melvin Gordon III,  TIER:LEGEND,  SERIAL:5,  FP:10.8,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:DEN
+Mark Andrews,  TIER:ELITE,  SERIAL:13,  FP:16.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:BAL
+A.J. Brown,  TIER:ELITE,  SERIAL:27,  FP:14.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PHI
+Joe Mixon,  TIER:ELITE,  SERIAL:35,  FP:14.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CIN
+
+Hand: 33,  contestTier: LEGEND,  TotalFP: 74.60000000000001,  stacked: true
+Justin Herbert,  TIER:LEGEND,  SERIAL:5,  FP:20.8,  POS:QB,  OrigPOS:QB,  SS:true,  Team:LAC
+Melvin Gordon III,  TIER:LEGEND,  SERIAL:7,  FP:10.8,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:DEN
+Mark Andrews,  TIER:ELITE,  SERIAL:20,  FP:16.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:BAL
+Mike Williams,  TIER:ELITE,  SERIAL:3,  FP:13.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAC
+Aaron Jones,  TIER:ELITE,  SERIAL:47,  FP:13.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:GB
+
+Hand: 34,  contestTier: LEGEND,  TotalFP: 71.0,  stacked: true
+Aaron Rodgers,  TIER:LEGEND,  SERIAL:9,  FP:20.2,  POS:QB,  OrigPOS:QB,  SS:true,  Team:GB
+Randall Cobb,  TIER:LEGEND,  SERIAL:6,  FP:8.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:GB
+Mark Andrews,  TIER:ELITE,  SERIAL:22,  FP:16.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:BAL
+Keenan Allen,  TIER:ELITE,  SERIAL:42,  FP:14.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:LAC
+David Montgomery,  TIER:ELITE,  SERIAL:8,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CHI
+
+Hand: 35,  contestTier: LEGEND,  TotalFP: 79.0,  stacked: false
+Justin Jefferson,  TIER:LEGEND,  SERIAL:2,  FP:19.7,  POS:WR,  OrigPOS:WR,  SS:true,  Team:MIN
+Justin Fields,  TIER:LEGEND,  SERIAL:2,  FP:16.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CHI
+Mark Andrews,  TIER:ELITE,  SERIAL:44,  FP:16.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:BAL
+Brandin Cooks,  TIER:ELITE,  SERIAL:4,  FP:14.4,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:HOU
+Javonte Williams,  TIER:ELITE,  SERIAL:10,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DEN
+
+Hand: 36,  contestTier: LEGEND,  TotalFP: 75.3,  stacked: false
+Justin Jefferson,  TIER:LEGEND,  SERIAL:4,  FP:19.7,  POS:WR,  OrigPOS:WR,  SS:true,  Team:MIN
+Jameis Winston,  TIER:LEGEND,  SERIAL:9,  FP:16.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+Tee Higgins,  TIER:ELITE,  SERIAL:4,  FP:14.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Amon-Ra St. Brown,  TIER:ELITE,  SERIAL:17,  FP:13.4,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:DET
+Javonte Williams,  TIER:ELITE,  SERIAL:21,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DEN
+
+Hand: 37,  contestTier: LEGEND,  TotalFP: 61.5,  stacked: true
+Derrick Henry,  TIER:LEGEND,  SERIAL:6,  FP:18.6,  POS:RB,  OrigPOS:RB,  SS:true,  Team:TEN
+Marcus Mariota,  TIER:LEGEND,  SERIAL:9,  FP:14.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+Auden Tate,  TIER:ELITE,  SERIAL:4,  FP:2.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ATL
+Amon-Ra St. Brown,  TIER:ELITE,  SERIAL:22,  FP:13.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DET
+Mike Williams,  TIER:ELITE,  SERIAL:4,  FP:13.3,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:LAC
+
+Hand: 38,  contestTier: LEGEND,  TotalFP: 76.7,  stacked: false
+Jonathan Taylor,  TIER:LEGEND,  SERIAL:5,  FP:17.3,  POS:RB,  OrigPOS:RB,  SS:true,  Team:IND
+Juju Smith-Schuster,  TIER:LEGEND,  SERIAL:10,  FP:10.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:KC
+Tom Brady,  TIER:ELITE,  SERIAL:41,  FP:21.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TB
+Tee Higgins,  TIER:ELITE,  SERIAL:12,  FP:14.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Amon-Ra St. Brown,  TIER:ELITE,  SERIAL:29,  FP:13.4,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:DET
+
+Hand: 39,  contestTier: LEGEND,  TotalFP: 74.0,  stacked: false
+CeeDee Lamb,  TIER:LEGEND,  SERIAL:4,  FP:17.2,  POS:WR,  OrigPOS:WR,  SS:true,  Team:DAL
+Tyler Boyd,  TIER:LEGEND,  SERIAL:7,  FP:10.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Carson Wentz,  TIER:ELITE,  SERIAL:8,  FP:20.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+Tee Higgins,  TIER:ELITE,  SERIAL:28,  FP:14.1,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:CIN
+David Montgomery,  TIER:ELITE,  SERIAL:31,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CHI
+
+Hand: 40,  contestTier: LEGEND,  TotalFP: 74.10000000000001,  stacked: false
+Najee Harris,  TIER:LEGEND,  SERIAL:2,  FP:17.0,  POS:RB,  OrigPOS:RB,  SS:true,  Team:PIT
+Courtland Sutton,  TIER:LEGEND,  SERIAL:4,  FP:10.5,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DEN
+Carson Wentz,  TIER:ELITE,  SERIAL:21,  FP:20.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+Mike Williams,  TIER:ELITE,  SERIAL:6,  FP:13.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:LAC
+James Conner,  TIER:ELITE,  SERIAL:6,  FP:13.2,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:ARI
+
+Hand: 41,  contestTier: LEGEND,  TotalFP: 72.8,  stacked: false
+Ja'Marr Chase,  TIER:LEGEND,  SERIAL:7,  FP:17.0,  POS:WR,  OrigPOS:WR,  SS:true,  Team:CIN
+Jakobi Meyers,  TIER:LEGEND,  SERIAL:1,  FP:10.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NE
+Carson Wentz,  TIER:ELITE,  SERIAL:24,  FP:20.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+Mike Williams,  TIER:ELITE,  SERIAL:9,  FP:13.3,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:LAC
+Javonte Williams,  TIER:ELITE,  SERIAL:34,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DEN
+
+Hand: 42,  contestTier: LEGEND,  TotalFP: 73.19999999999999,  stacked: false
+Najee Harris,  TIER:LEGEND,  SERIAL:7,  FP:17.0,  POS:RB,  OrigPOS:RB,  SS:true,  Team:PIT
+Robert Woods,  TIER:LEGEND,  SERIAL:4,  FP:10.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Dak Prescott,  TIER:ELITE,  SERIAL:12,  FP:19.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DAL
+James Conner,  TIER:ELITE,  SERIAL:8,  FP:13.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:ARI
+Tyler Lockett,  TIER:ELITE,  SERIAL:11,  FP:13.1,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:SEA
+
+Hand: 43,  contestTier: LEGEND,  TotalFP: 71.3,  stacked: false
+Ja'Marr Chase,  TIER:LEGEND,  SERIAL:8,  FP:17.0,  POS:WR,  OrigPOS:WR,  SS:true,  Team:CIN
+Christian Kirksey,  TIER:LEGEND,  SERIAL:4,  FP:10.1,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:HOU
+Dak Prescott,  TIER:ELITE,  SERIAL:26,  FP:19.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DAL
+Rashod Bateman,  TIER:ELITE,  SERIAL:39,  FP:13.0,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BAL
+Cordarrelle Patterson,  TIER:ELITE,  SERIAL:15,  FP:11.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ATL
+
+Hand: 44,  contestTier: LEGEND,  TotalFP: 70.4,  stacked: true
+Najee Harris,  TIER:LEGEND,  SERIAL:9,  FP:17.0,  POS:RB,  OrigPOS:RB,  SS:true,  Team:PIT
+Van Jefferson,  TIER:LEGEND,  SERIAL:2,  FP:9.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAR
+Matthew Stafford,  TIER:ELITE,  SERIAL:6,  FP:19.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:LAR
+Gabriel Davis,  TIER:ELITE,  SERIAL:7,  FP:12.7,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BUF
+Allen Robinson II,  TIER:ELITE,  SERIAL:38,  FP:12.3,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:LAR
+
+Hand: 45,  contestTier: LEGEND,  TotalFP: 69.8,  stacked: false
+Austin Ekeler,  TIER:LEGEND,  SERIAL:3,  FP:16.2,  POS:RB,  OrigPOS:RB,  SS:true,  Team:LAC
+Kadarius Toney,  TIER:LEGEND,  SERIAL:8,  FP:10.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Trey Lance,  TIER:ELITE,  SERIAL:24,  FP:19.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
+Kyle Pitts,  TIER:ELITE,  SERIAL:3,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Michael Thomas,  TIER:ELITE,  SERIAL:22,  FP:12.1,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:CIN
+
+Hand: 46,  contestTier: LEGEND,  TotalFP: 67.7,  stacked: false
+Deebo Samuel,  TIER:LEGEND,  SERIAL:8,  FP:14.9,  POS:WR,  OrigPOS:WR,  SS:true,  Team:SF
+Johnathan Abram,  TIER:LEGEND,  SERIAL:2,  FP:9.8,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:LV
+Trey Lance,  TIER:ELITE,  SERIAL:46,  FP:19.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
+Kyle Pitts,  TIER:ELITE,  SERIAL:7,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Cordarrelle Patterson,  TIER:ELITE,  SERIAL:50,  FP:11.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ATL
+
+Hand: 47,  contestTier: LEGEND,  TotalFP: 62.300000000000004,  stacked: false
+Brandon Aiyuk,  TIER:LEGEND,  SERIAL:3,  FP:9.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:SF
+Johnathan Abram,  TIER:LEGEND,  SERIAL:4,  FP:9.8,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:LV
+Russell Wilson,  TIER:ELITE,  SERIAL:21,  FP:19.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DEN
+Kyle Pitts,  TIER:ELITE,  SERIAL:20,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Josh Jacobs,  TIER:ELITE,  SERIAL:2,  FP:11.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+
+Hand: 48,  contestTier: LEGEND,  TotalFP: 60.60000000000001,  stacked: false
+Chase Claypool,  TIER:LEGEND,  SERIAL:3,  FP:9.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
+Jordan Poyer,  TIER:LEGEND,  SERIAL:4,  FP:9.5,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:BUF
+Russell Wilson,  TIER:ELITE,  SERIAL:21,  FP:19.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DEN
+Kyle Pitts,  TIER:ELITE,  SERIAL:40,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Clyde Edwards-Helaire,  TIER:ELITE,  SERIAL:16,  FP:10.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:KC
+
+Hand: 49,  contestTier: LEGEND,  TotalFP: 60.5,  stacked: false
+Chase Claypool,  TIER:LEGEND,  SERIAL:8,  FP:9.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
+Wan'Dale Robinson,  TIER:LEGEND,  SERIAL:20,  FP:9.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYG
+Russell Wilson,  TIER:ELITE,  SERIAL:30,  FP:19.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DEN
+Kyle Pitts,  TIER:ELITE,  SERIAL:44,  FP:12.2,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:ATL
+Dallas Goedert,  TIER:ELITE,  SERIAL:17,  FP:10.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+
+Hand: 50,  contestTier: LEGEND,  TotalFP: 57.7,  stacked: true
+Nick Westbrook-Ikhine,  TIER:LEGEND,  SERIAL:8,  FP:7.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Michael Gallup,  TIER:LEGEND,  SERIAL:6,  FP:9.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DAL
+Ryan Tannehill,  TIER:ELITE,  SERIAL:7,  FP:19.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+Elijah Moore,  TIER:ELITE,  SERIAL:9,  FP:11.9,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:NYJ
+Clyde Edwards-Helaire,  TIER:ELITE,  SERIAL:30,  FP:10.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:KC
+
+Hand: 51,  contestTier: LEGEND,  TotalFP: 58.900000000000006,  stacked: false
+Chase Claypool,  TIER:LEGEND,  SERIAL:9,  FP:9.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
+Matt Gay,  TIER:LEGEND,  SERIAL:1,  FP:9.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:LAR
+Jacoby Brissett,  TIER:ELITE,  SERIAL:2,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CLE
+Elijah Moore,  TIER:ELITE,  SERIAL:16,  FP:11.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYJ
+Kareem Hunt,  TIER:ELITE,  SERIAL:4,  FP:9.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+
+Hand: 52,  contestTier: LEGEND,  TotalFP: 63.5,  stacked: true
+Matt Gay,  TIER:LEGEND,  SERIAL:3,  FP:9.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:LAR
+David Njoku,  TIER:LEGEND,  SERIAL:10,  FP:9.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CLE
+Joe Burrow,  TIER:ELITE,  SERIAL:14,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+Ja'Marr Chase,  TIER:ELITE,  SERIAL:34,  FP:17.0,  POS:WR,  OrigPOS:WR,  SS:true,  Team:CIN
+Antonio Gibson,  TIER:ELITE,  SERIAL:9,  FP:9.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:WAS
+
+Hand: 53,  contestTier: LEGEND,  TotalFP: 57.8,  stacked: false
+Robbie Gould,  TIER:LEGEND,  SERIAL:5,  FP:9.0,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:SF
+Zach Ertz,  TIER:LEGEND,  SERIAL:9,  FP:8.7,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ARI
+Joe Burrow,  TIER:ELITE,  SERIAL:15,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+Amari Cooper,  TIER:ELITE,  SERIAL:8,  FP:11.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Kareem Hunt,  TIER:ELITE,  SERIAL:9,  FP:9.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+
+Hand: 54,  contestTier: LEGEND,  TotalFP: 57.4,  stacked: false
+Harrison Butker,  TIER:LEGEND,  SERIAL:6,  FP:8.9,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:KC
+A.J. Green,  TIER:LEGEND,  SERIAL:8,  FP:8.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ARI
+Joe Burrow,  TIER:ELITE,  SERIAL:19,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+Jaylen Waddle,  TIER:ELITE,  SERIAL:11,  FP:11.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:MIA
+Miles Sanders,  TIER:ELITE,  SERIAL:11,  FP:9.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+
+Hand: 55,  contestTier: LEGEND,  TotalFP: 56.0,  stacked: true
+Randy Bullock,  TIER:LEGEND,  SERIAL:9,  FP:8.9,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:TEN
+Gerald Everett,  TIER:LEGEND,  SERIAL:2,  FP:8.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LAC
+Trevor Lawrence,  TIER:ELITE,  SERIAL:1,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+Christian Kirk,  TIER:ELITE,  SERIAL:12,  FP:11.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Damien Harris,  TIER:ELITE,  SERIAL:17,  FP:9.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+
+Hand: 56,  contestTier: LEGEND,  TotalFP: 55.8,  stacked: true
+Joey Bosa,  TIER:LEGEND,  SERIAL:3,  FP:8.8,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:LAC
+T.J. Hockenson,  TIER:LEGEND,  SERIAL:9,  FP:8.3,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:DET
+Trevor Lawrence,  TIER:ELITE,  SERIAL:9,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+Christian Kirk,  TIER:ELITE,  SERIAL:19,  FP:11.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Damien Harris,  TIER:ELITE,  SERIAL:32,  FP:9.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+
+Hand: 57,  contestTier: LEGEND,  TotalFP: 57.0,  stacked: false
+Rodrigo Blankenship,  TIER:LEGEND,  SERIAL:5,  FP:8.6,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:IND
+James Cook,  TIER:LEGEND,  SERIAL:8,  FP:7.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BUF
+Daniel Jones,  TIER:ELITE,  SERIAL:18,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+Amari Cooper,  TIER:ELITE,  SERIAL:13,  FP:11.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Jaylen Waddle,  TIER:ELITE,  SERIAL:600,  FP:11.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:MIA
+
+Hand: 58,  contestTier: LEGEND,  TotalFP: 63.699999999999996,  stacked: true
+Cairo Santos,  TIER:LEGEND,  SERIAL:3,  FP:8.0,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:CHI
+Damien Williams,  TIER:LEGEND,  SERIAL:1,  FP:6.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ATL
+Kirk Cousins,  TIER:ELITE,  SERIAL:24,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIN
+Justin Jefferson,  TIER:ELITE,  SERIAL:2,  FP:19.7,  POS:WR,  OrigPOS:WR,  SS:true,  Team:MIN
+Christian Kirk,  TIER:ELITE,  SERIAL:36,  FP:11.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:JAX
+
+Hand: 59,  contestTier: LEGEND,  TotalFP: 53.2,  stacked: false
+Kareem Jackson,  TIER:LEGEND,  SERIAL:1,  FP:7.9,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:DEN
+Zay Jones,  TIER:LEGEND,  SERIAL:6,  FP:6.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Matt Ryan,  TIER:ELITE,  SERIAL:11,  FP:17.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
+Amari Cooper,  TIER:ELITE,  SERIAL:19,  FP:11.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CLE
+Damien Harris,  TIER:ELITE,  SERIAL:38,  FP:9.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+
+Hand: 60,  contestTier: LEGEND,  TotalFP: 48.2,  stacked: true
+Mike Hughes,  TIER:LEGEND,  SERIAL:2,  FP:7.4,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:DET
+Hayden Hurst,  TIER:LEGEND,  SERIAL:1,  FP:6.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CIN
+Matt Ryan,  TIER:ELITE,  SERIAL:28,  FP:17.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
+Alec Pierce,  TIER:ELITE,  SERIAL:64,  FP:7.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:IND
+Chase Edmonds,  TIER:ELITE,  SERIAL:5,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+
+Hand: 61,  contestTier: LEGEND,  TotalFP: 50.99999999999999,  stacked: false
+Bradley Chubb,  TIER:LEGEND,  SERIAL:1,  FP:7.0,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:DEN
+Hayden Hurst,  TIER:LEGEND,  SERIAL:9,  FP:6.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CIN
+Justin Fields,  TIER:ELITE,  SERIAL:3,  FP:16.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CHI
+Amari Cooper,  TIER:ELITE,  SERIAL:28,  FP:11.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Harrison Butker,  TIER:ELITE,  SERIAL:24,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:KC
+
+Hand: 62,  contestTier: LEGEND,  TotalFP: 48.9,  stacked: false
+Evan Engram,  TIER:LEGEND,  SERIAL:9,  FP:6.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:JAX
+Jamison Crowder,  TIER:LEGEND,  SERIAL:10,  FP:6.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Jared Goff,  TIER:ELITE,  SERIAL:6,  FP:16.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+Corey Davis,  TIER:ELITE,  SERIAL:2,  FP:11.2,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:NYJ
+Chase Edmonds,  TIER:ELITE,  SERIAL:31,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+
+Hand: 63,  contestTier: LEGEND,  TotalFP: 41.9,  stacked: true
+Marlon Mack,  TIER:LEGEND,  SERIAL:6,  FP:5.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:HOU
+Javon Hargrave,  TIER:LEGEND,  SERIAL:1,  FP:5.7,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:PHI
+Jared Goff,  TIER:ELITE,  SERIAL:7,  FP:16.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+Josh Reynolds,  TIER:ELITE,  SERIAL:9,  FP:2.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DET
+Diontae Johnson,  TIER:ELITE,  SERIAL:15,  FP:11.0,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:PIT
+
+Hand: 64,  contestTier: LEGEND,  TotalFP: 49.8,  stacked: false
+Devin Singletary,  TIER:LEGEND,  SERIAL:8,  FP:5.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BUF
+Quinnen Williams,  TIER:LEGEND,  SERIAL:2,  FP:5.4,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:NYJ
+Jared Goff,  TIER:ELITE,  SERIAL:20,  FP:16.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+Cam Akers,  TIER:ELITE,  SERIAL:5,  FP:11.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAR
+Darren Waller,  TIER:ELITE,  SERIAL:22,  FP:11.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LV
+
+Hand: 65,  contestTier: LEGEND,  TotalFP: 36.5,  stacked: false
+Austin Hooper,  TIER:LEGEND,  SERIAL:5,  FP:5.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:TEN
+Albert Okwuegbunam,  TIER:LEGEND,  SERIAL:6,  FP:5.2,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:DEN
+Cam Akers,  TIER:ELITE,  SERIAL:6,  FP:11.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAR
+Rashaad Penny,  TIER:ELITE,  SERIAL:22,  FP:8.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SEA
+Kenny Pickett,  TIER:ELITE,  SERIAL:81,  FP:6.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:PIT
+
+Hand: 66,  contestTier: LEGEND,  TotalFP: 32.2,  stacked: false
+Arik Armstead,  TIER:LEGEND,  SERIAL:3,  FP:5.0,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:SF
+Brevin Jordan,  TIER:LEGEND,  SERIAL:9,  FP:5.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:HOU
+Cam Akers,  TIER:ELITE,  SERIAL:46,  FP:11.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAR
+Jamaal Williams,  TIER:ELITE,  SERIAL:2,  FP:7.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DET
+Taysom Hill,  TIER:ELITE,  SERIAL:25,  FP:4.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+
+Hand: 67,  contestTier: LEGEND,  TotalFP: 31.1,  stacked: false
+George Karlaftis,  TIER:LEGEND,  SERIAL:8,  FP:3.8,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:KC
+Khalil Herbert,  TIER:LEGEND,  SERIAL:10,  FP:3.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CHI
+Darren Waller,  TIER:ELITE,  SERIAL:23,  FP:11.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LV
+Marvin Jones Jr.,  TIER:ELITE,  SERIAL:12,  FP:10.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Jimmy Garoppolo,  TIER:ELITE,  SERIAL:2,  FP:1.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
+
+Hand: 68,  contestTier: LEGEND,  TotalFP: 29.6,  stacked: false
+James Robinson,  TIER:LEGEND,  SERIAL:3,  FP:3.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:JAX
+Chuba Hubbard,  TIER:LEGEND,  SERIAL:3,  FP:3.6,  POS:FLEX,  OrigPOS:RB,  SS:false,  Team:CAR
+Darren Waller,  TIER:ELITE,  SERIAL:25,  FP:11.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LV
+Devin Duvernay,  TIER:ELITE,  SERIAL:18,  FP:10.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BAL
+Jordan Love,  TIER:ELITE,  SERIAL:1,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:GB
+
+Hand: 69,  contestTier: LEGEND,  TotalFP: 35.1,  stacked: false
+Sam Darnold,  TIER:LEGEND,  SERIAL:1,  FP:3.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
+Cameron Brate,  TIER:LEGEND,  SERIAL:10,  FP:3.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:TB
+Darren Waller,  TIER:ELITE,  SERIAL:31,  FP:11.0,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:LV
+Marvin Jones Jr.,  TIER:ELITE,  SERIAL:23,  FP:10.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Damien Williams,  TIER:ELITE,  SERIAL:30,  FP:6.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ATL
+
+Hand: 70,  contestTier: LEGEND,  TotalFP: 22.9,  stacked: false
+C.J. Uzomah,  TIER:LEGEND,  SERIAL:5,  FP:2.8,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:NYJ
+Adam Trautman,  TIER:LEGEND,  SERIAL:2,  FP:2.4,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:NO
+Juju Smith-Schuster,  TIER:ELITE,  SERIAL:50,  FP:10.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:KC
+Pat Freiermuth,  TIER:ELITE,  SERIAL:1,  FP:6.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PIT
+Blaine Gabbert,  TIER:ELITE,  SERIAL:1,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TB
+
+Hand: 71,  contestTier: LEGEND,  TotalFP: 19.400000000000002,  stacked: false
+Tutu Atwell,  TIER:LEGEND,  SERIAL:3,  FP:1.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAR
+Richie James Jr.,  TIER:LEGEND,  SERIAL:6,  FP:0.5,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:SF
+Darren Waller,  TIER:ELITE,  SERIAL:37,  FP:11.0,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:LV
+Raheem Mostert,  TIER:ELITE,  SERIAL:10,  FP:6.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Tim Boyle,  TIER:ELITE,  SERIAL:37,  FP:0.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+
+Hand: 72,  contestTier: LEGEND,  TotalFP: 45.5,  stacked: false
+Salvon Ahmed,  TIER:LEGEND,  SERIAL:3,  FP:0.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Tre'Davious White,  TIER:LEGEND,  SERIAL:3,  FP:0.0,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:BUF
+Chris Godwin,  TIER:ELITE,  SERIAL:24,  FP:10.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Courtland Sutton,  TIER:ELITE,  SERIAL:14,  FP:10.5,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DEN
+Jalen Hurts,  TIER:RARE,  SERIAL:35,  FP:24.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:PHI
+
+Hand: 73,  contestTier: ELITE,  TotalFP: 72.5,  stacked: false
+Josh Allen,  TIER:ELITE,  SERIAL:37,  FP:22.6,  POS:QB,  OrigPOS:QB,  SS:true,  Team:JAX
+Nico Collins,  TIER:ELITE,  SERIAL:38,  FP:10.5,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
+Rondale Moore,  TIER:ELITE,  SERIAL:12,  FP:10.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:ARI
+Jakobi Meyers,  TIER:ELITE,  SERIAL:15,  FP:10.4,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:NE
+Alvin Kamara,  TIER:RARE,  SERIAL:23,  FP:18.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NO
+
+Hand: 74,  contestTier: ELITE,  TotalFP: 65.2,  stacked: true
+Patrick Mahomes,  TIER:ELITE,  SERIAL:2,  FP:22.4,  POS:RB,  OrigPOS:RB,  SS:true,  Team:KC
+Breshad Perriman,  TIER:ELITE,  SERIAL:6,  FP:0.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Rondale Moore,  TIER:ELITE,  SERIAL:38,  FP:10.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:ARI
+Dalton Schultz,  TIER:ELITE,  SERIAL:38,  FP:10.3,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:DAL
+Tom Brady,  TIER:RARE,  SERIAL:50,  FP:21.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TB
+
+Hand: 75,  contestTier: ELITE,  TotalFP: 71.6,  stacked: false
+Patrick Mahomes,  TIER:ELITE,  SERIAL:9,  FP:22.4,  POS:QB,  OrigPOS:QB,  SS:true,  Team:KC
+Jerry Jeudy,  TIER:ELITE,  SERIAL:25,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DEN
+Robert Woods,  TIER:ELITE,  SERIAL:48,  FP:10.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:TEN
+Kadarius Toney,  TIER:ELITE,  SERIAL:8,  FP:10.0,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:NYG
+Alvin Kamara,  TIER:RARE,  SERIAL:79,  FP:18.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NO
+
+Hand: 76,  contestTier: ELITE,  TotalFP: 70.3,  stacked: false
+Patrick Mahomes,  TIER:ELITE,  SERIAL:10,  FP:22.4,  POS:QB,  OrigPOS:QB,  SS:true,  Team:KC
+Jerry Jeudy,  TIER:ELITE,  SERIAL:50,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DEN
+Kadarius Toney,  TIER:ELITE,  SERIAL:26,  FP:10.0,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYG
+Brandon Aiyuk,  TIER:ELITE,  SERIAL:17,  FP:9.8,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:SF
+Kirk Cousins,  TIER:RARE,  SERIAL:44,  FP:17.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIN
+
+Hand: 77,  contestTier: ELITE,  TotalFP: 69.0,  stacked: false
+Patrick Mahomes,  TIER:ELITE,  SERIAL:17,  FP:22.4,  POS:QB,  OrigPOS:QB,  SS:true,  Team:KC
+Brandon Aiyuk,  TIER:ELITE,  SERIAL:29,  FP:9.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:SF
+Chase Claypool,  TIER:ELITE,  SERIAL:12,  FP:9.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:PIT
+Jordan Poyer,  TIER:ELITE,  SERIAL:5,  FP:9.5,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:BUF
+Kirk Cousins,  TIER:RARE,  SERIAL:114,  FP:17.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIN
+
+Hand: 78,  contestTier: ELITE,  TotalFP: 67.0,  stacked: false
+Cooper Kupp,  TIER:ELITE,  SERIAL:26,  FP:20.6,  POS:WR,  OrigPOS:WR,  SS:true,  Team:LAR
+Chase Claypool,  TIER:ELITE,  SERIAL:26,  FP:9.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:PIT
+Donovan Peoples-Jones,  TIER:ELITE,  SERIAL:23,  FP:9.3,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:CLE
+Raheem Mostert,  TIER:ELITE,  SERIAL:19,  FP:6.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Tom Brady,  TIER:RARE,  SERIAL:100,  FP:21.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TB
+
+Hand: 79,  contestTier: ELITE,  TotalFP: 61.5,  stacked: true
+Aaron Rodgers,  TIER:ELITE,  SERIAL:24,  FP:20.2,  POS:QB,  OrigPOS:QB,  SS:true,  Team:GB
+Randall Cobb,  TIER:ELITE,  SERIAL:14,  FP:8.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:GB
+Matt Prater,  TIER:ELITE,  SERIAL:13,  FP:9.2,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:ARI
+David Njoku,  TIER:ELITE,  SERIAL:5,  FP:9.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CLE
+Leonard Fournette,  TIER:RARE,  SERIAL:124,  FP:14.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:TB
+
+Hand: 80,  contestTier: ELITE,  TotalFP: 61.4,  stacked: true
+Aaron Rodgers,  TIER:ELITE,  SERIAL:38,  FP:20.2,  POS:QB,  OrigPOS:QB,  SS:true,  Team:GB
+Randall Cobb,  TIER:ELITE,  SERIAL:29,  FP:8.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:GB
+Matt Gay,  TIER:ELITE,  SERIAL:5,  FP:9.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:LAR
+David Njoku,  TIER:ELITE,  SERIAL:42,  FP:9.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CLE
+Leonard Fournette,  TIER:RARE,  SERIAL:168,  FP:14.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:TB
+
+Hand: 81,  contestTier: ELITE,  TotalFP: 65.89999999999999,  stacked: false
+Justin Jefferson,  TIER:ELITE,  SERIAL:8,  FP:19.7,  POS:WR,  OrigPOS:WR,  SS:true,  Team:MIN
+Chase Claypool,  TIER:ELITE,  SERIAL:26,  FP:9.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:PIT
+Brandon McManus,  TIER:ELITE,  SERIAL:24,  FP:9.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:DEN
+Raheem Mostert,  TIER:ELITE,  SERIAL:23,  FP:6.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Tom Brady,  TIER:RARE,  SERIAL:192,  FP:21.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TB
+
+Hand: 82,  contestTier: ELITE,  TotalFP: 63.7,  stacked: false
+Justin Jefferson,  TIER:ELITE,  SERIAL:14,  FP:19.7,  POS:WR,  OrigPOS:WR,  SS:true,  Team:MIN
+Dustin Hopkins,  TIER:ELITE,  SERIAL:26,  FP:9.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:LAC
+Zach Ertz,  TIER:ELITE,  SERIAL:5,  FP:8.7,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ARI
+Devin Singletary,  TIER:ELITE,  SERIAL:13,  FP:5.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BUF
+Kyler Murray,  TIER:RARE,  SERIAL:2,  FP:20.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ARI
+
+Hand: 83,  contestTier: ELITE,  TotalFP: 49.300000000000004,  stacked: true
+Curtis Samuel,  TIER:ELITE,  SERIAL:3,  FP:6.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:WAS
+Harrison Butker,  TIER:ELITE,  SERIAL:5,  FP:8.9,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:KC
+Zach Ertz,  TIER:ELITE,  SERIAL:12,  FP:8.7,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ARI
+Devin Singletary,  TIER:ELITE,  SERIAL:23,  FP:5.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BUF
+Carson Wentz,  TIER:RARE,  SERIAL:24,  FP:20.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+
+Hand: 84,  contestTier: ELITE,  TotalFP: 61.00000000000001,  stacked: false
+Justin Jefferson,  TIER:ELITE,  SERIAL:23,  FP:19.7,  POS:WR,  OrigPOS:WR,  SS:true,  Team:MIN
+Harrison Butker,  TIER:ELITE,  SERIAL:6,  FP:8.9,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:KC
+A.J. Green,  TIER:ELITE,  SERIAL:29,  FP:8.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:ARI
+Giovani Bernard,  TIER:ELITE,  SERIAL:2,  FP:3.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:TB
+Carson Wentz,  TIER:RARE,  SERIAL:90,  FP:20.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+
+Hand: 85,  contestTier: ELITE,  TotalFP: 65.0,  stacked: false
+Christian McCaffrey,  TIER:ELITE,  SERIAL:16,  FP:19.3,  POS:RB,  OrigPOS:RB,  SS:true,  Team:CAR
+Harrison Butker,  TIER:ELITE,  SERIAL:23,  FP:8.9,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:KC
+A.J. Green,  TIER:ELITE,  SERIAL:38,  FP:8.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ARI
+Robert Tonyan,  TIER:ELITE,  SERIAL:6,  FP:8.5,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:GB
+Dak Prescott,  TIER:RARE,  SERIAL:91,  FP:19.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DAL
+
+Hand: 86,  contestTier: ELITE,  TotalFP: 62.0,  stacked: false
+Jonathan Taylor,  TIER:ELITE,  SERIAL:2,  FP:17.3,  POS:RB,  OrigPOS:RB,  SS:true,  Team:IND
+Tracy Walker,  TIER:ELITE,  SERIAL:1,  FP:8.8,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:DET
+Robert Tonyan,  TIER:ELITE,  SERIAL:8,  FP:8.5,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:GB
+Skyy Moore,  TIER:ELITE,  SERIAL:91,  FP:7.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:KC
+Dak Prescott,  TIER:RARE,  SERIAL:153,  FP:19.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DAL
+
+Hand: 87,  contestTier: ELITE,  TotalFP: 57.3,  stacked: false
+CeeDee Lamb,  TIER:ELITE,  SERIAL:18,  FP:17.2,  POS:WR,  OrigPOS:WR,  SS:true,  Team:DAL
+Justin Tucker,  TIER:ELITE,  SERIAL:30,  FP:8.8,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:BAL
+Gerald Everett,  TIER:ELITE,  SERIAL:47,  FP:8.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LAC
+Chuba Hubbard,  TIER:ELITE,  SERIAL:11,  FP:3.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CAR
+Matthew Stafford,  TIER:RARE,  SERIAL:70,  FP:19.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:LAR
+
+Hand: 88,  contestTier: ELITE,  TotalFP: 57.0,  stacked: false
+CeeDee Lamb,  TIER:ELITE,  SERIAL:40,  FP:17.2,  POS:WR,  OrigPOS:WR,  SS:true,  Team:DAL
+Nick Folk,  TIER:ELITE,  SERIAL:28,  FP:8.7,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NE
+T.J. Hockenson,  TIER:ELITE,  SERIAL:14,  FP:8.3,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:DET
+Jeff Wilson Jr.,  TIER:ELITE,  SERIAL:5,  FP:3.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SF
+Trey Lance,  TIER:RARE,  SERIAL:82,  FP:19.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
+
+Hand: 89,  contestTier: ELITE,  TotalFP: 60.900000000000006,  stacked: false
+Najee Harris,  TIER:ELITE,  SERIAL:11,  FP:17.0,  POS:RB,  OrigPOS:RB,  SS:true,  Team:PIT
+Nick Folk,  TIER:ELITE,  SERIAL:30,  FP:8.7,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NE
+Dawson Knox,  TIER:ELITE,  SERIAL:24,  FP:8.3,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:BUF
+Devante Parker,  TIER:ELITE,  SERIAL:21,  FP:7.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NE
+Matthew Stafford,  TIER:RARE,  SERIAL:126,  FP:19.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:LAR
+
+Hand: 90,  contestTier: ELITE,  TotalFP: 56.3,  stacked: false
+Davante Adams,  TIER:ELITE,  SERIAL:8,  FP:16.9,  POS:WR,  OrigPOS:WR,  SS:true,  Team:LV
+Daniel Carlson,  TIER:ELITE,  SERIAL:8,  FP:8.6,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:LV
+T.J. Hockenson,  TIER:ELITE,  SERIAL:26,  FP:8.3,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:DET
+Kenneth Gainwell,  TIER:ELITE,  SERIAL:7,  FP:3.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+Trey Lance,  TIER:RARE,  SERIAL:187,  FP:19.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
+
+Hand: 91,  contestTier: ELITE,  TotalFP: 46.099999999999994,  stacked: true
+Nick Westbrook-Ikhine,  TIER:ELITE,  SERIAL:17,  FP:7.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Rodrigo Blankenship,  TIER:ELITE,  SERIAL:30,  FP:8.6,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:IND
+Noah Fant,  TIER:ELITE,  SERIAL:17,  FP:7.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:SEA
+Kenneth Gainwell,  TIER:ELITE,  SERIAL:26,  FP:3.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+Ryan Tannehill,  TIER:RARE,  SERIAL:16,  FP:19.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+
+Hand: 92,  contestTier: ELITE,  TotalFP: 43.4,  stacked: true
+Julio Jones,  TIER:ELITE,  SERIAL:11,  FP:5.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Myles Garrett,  TIER:ELITE,  SERIAL:3,  FP:8.4,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:CLE
+Mike Gesicki,  TIER:ELITE,  SERIAL:14,  FP:7.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:MIA
+Ty Montgomery,  TIER:ELITE,  SERIAL:6,  FP:2.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+Ryan Tannehill,  TIER:RARE,  SERIAL:46,  FP:19.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+
+Hand: 93,  contestTier: ELITE,  TotalFP: 43.2,  stacked: true
+Dez Fitzpatrick,  TIER:ELITE,  SERIAL:4,  FP:5.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Wil Lutz,  TIER:ELITE,  SERIAL:5,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NO
+Mike Gesicki,  TIER:ELITE,  SERIAL:25,  FP:7.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:MIA
+Matt Breida,  TIER:ELITE,  SERIAL:20,  FP:2.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYG
+Ryan Tannehill,  TIER:RARE,  SERIAL:88,  FP:19.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+
+Hand: 94,  contestTier: ELITE,  TotalFP: 53.699999999999996,  stacked: false
+Davante Adams,  TIER:ELITE,  SERIAL:10,  FP:16.9,  POS:WR,  OrigPOS:WR,  SS:true,  Team:LV
+Chris Boswell,  TIER:ELITE,  SERIAL:9,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:PIT
+Mecole Hardman,  TIER:ELITE,  SERIAL:7,  FP:6.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:KC
+Matt Breida,  TIER:ELITE,  SERIAL:47,  FP:2.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYG
+Ryan Tannehill,  TIER:RARE,  SERIAL:93,  FP:19.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+
+Hand: 95,  contestTier: ELITE,  TotalFP: 52.1,  stacked: false
+Davante Adams,  TIER:ELITE,  SERIAL:45,  FP:16.9,  POS:WR,  OrigPOS:WR,  SS:true,  Team:LV
+Graham Gano,  TIER:ELITE,  SERIAL:18,  FP:8.3,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NYG
+Mecole Hardman,  TIER:ELITE,  SERIAL:21,  FP:6.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:KC
+DeeJay Dallas,  TIER:ELITE,  SERIAL:6,  FP:1.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SEA
+Joe Burrow,  TIER:RARE,  SERIAL:46,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+
+Hand: 96,  contestTier: ELITE,  TotalFP: 56.1,  stacked: false
+Dalvin Cook,  TIER:ELITE,  SERIAL:5,  FP:16.6,  POS:RB,  OrigPOS:RB,  SS:true,  Team:MIN
+Tyler Bass,  TIER:ELITE,  SERIAL:17,  FP:8.2,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:BUF
+Zay Jones,  TIER:ELITE,  SERIAL:2,  FP:6.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Mo Alie-Cox,  TIER:ELITE,  SERIAL:35,  FP:6.7,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:IND
+Trevor Lawrence,  TIER:RARE,  SERIAL:73,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 97,  contestTier: ELITE,  TotalFP: 55.0,  stacked: false
+Dalvin Cook,  TIER:ELITE,  SERIAL:21,  FP:16.6,  POS:RB,  OrigPOS:RB,  SS:true,  Team:MIN
+Zane Gonzalez,  TIER:ELITE,  SERIAL:24,  FP:8.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:CAR
+Hayden Hurst,  TIER:ELITE,  SERIAL:8,  FP:6.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CIN
+Jamison Crowder,  TIER:ELITE,  SERIAL:26,  FP:6.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Trevor Lawrence,  TIER:RARE,  SERIAL:75,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 98,  contestTier: ELITE,  TotalFP: 54.8,  stacked: false
+Dalvin Cook,  TIER:ELITE,  SERIAL:42,  FP:16.6,  POS:RB,  OrigPOS:RB,  SS:true,  Team:MIN
+Jevon Holland,  TIER:ELITE,  SERIAL:2,  FP:8.0,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:MIA
+Hayden Hurst,  TIER:ELITE,  SERIAL:18,  FP:6.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CIN
+Jamison Crowder,  TIER:ELITE,  SERIAL:30,  FP:6.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Zach Wilson,  TIER:RARE,  SERIAL:68,  FP:17.8,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYJ
+
+Hand: 99,  contestTier: ELITE,  TotalFP: 38.900000000000006,  stacked: false
+Cairo Santos,  TIER:ELITE,  SERIAL:3,  FP:8.0,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:CHI
+Evan Engram,  TIER:ELITE,  SERIAL:18,  FP:6.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:JAX
+Jamison Crowder,  TIER:ELITE,  SERIAL:41,  FP:6.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Myles Gaskin,  TIER:ELITE,  SERIAL:11,  FP:1.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Daniel Jones,  TIER:RARE,  SERIAL:44,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+
+Hand: 100,  contestTier: ELITE,  TotalFP: 38.8,  stacked: false
+Justin Simmons,  TIER:ELITE,  SERIAL:6,  FP:8.0,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:DEN
+Logan Thomas,  TIER:ELITE,  SERIAL:18,  FP:6.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:WAS
+Romeo Doubs,  TIER:ELITE,  SERIAL:48,  FP:6.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:GB
+Myles Gaskin,  TIER:ELITE,  SERIAL:29,  FP:1.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Kirk Cousins,  TIER:RARE,  SERIAL:60,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIN
+
+Hand: 101,  contestTier: ELITE,  TotalFP: 37.2,  stacked: false
+Isaiah Simmons,  TIER:ELITE,  SERIAL:8,  FP:7.9,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:ARI
+Logan Thomas,  TIER:ELITE,  SERIAL:21,  FP:6.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:WAS
+Jarvis Landry,  TIER:ELITE,  SERIAL:23,  FP:5.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NO
+Denzel Ward,  TIER:ELITE,  SERIAL:10,  FP:0.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+Daniel Jones,  TIER:RARE,  SERIAL:90,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+
+Hand: 102,  contestTier: RARE,  TotalFP: 51.1,  stacked: false
+Jordan Fuller,  TIER:ELITE,  SERIAL:2,  FP:7.8,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:LAR
+Jarvis Landry,  TIER:ELITE,  SERIAL:34,  FP:5.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NO
+Calais Campbell,  TIER:ELITE,  SERIAL:7,  FP:5.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BAL
+Tua Tagovailoa,  TIER:RARE,  SERIAL:90,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIA
+D'Andre Swift,  TIER:RARE,  SERIAL:61,  FP:14.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DET
+
+Hand: 103,  contestTier: RARE,  TotalFP: 61.4,  stacked: false
+Adoree' Jackson,  TIER:ELITE,  SERIAL:4,  FP:7.3,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:NYG
+Kendrick Bourne,  TIER:ELITE,  SERIAL:17,  FP:5.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NE
+Parris Campbell,  TIER:ELITE,  SERIAL:1,  FP:5.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:IND
+Lamar Jackson,  TIER:RARE,  SERIAL:142,  FP:24.9,  POS:QB,  OrigPOS:QB,  SS:true,  Team:CHI
+Alvin Kamara,  TIER:CORE,  SERIAL:433,  FP:18.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NO
+
+Hand: 104,  contestTier: RARE,  TotalFP: 60.3,  stacked: false
+Xavier Woods,  TIER:ELITE,  SERIAL:2,  FP:7.2,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:CAR
+Darius Slayton,  TIER:ELITE,  SERIAL:7,  FP:5.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Austin Hooper,  TIER:ELITE,  SERIAL:9,  FP:5.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:TEN
+Lamar Jackson,  TIER:RARE,  SERIAL:158,  FP:24.9,  POS:QB,  OrigPOS:QB,  SS:true,  Team:CHI
+Derek Carr,  TIER:CORE,  SERIAL:337,  FP:17.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+
+Hand: 105,  contestTier: RARE,  TotalFP: 57.400000000000006,  stacked: false
+Bradley Chubb,  TIER:ELITE,  SERIAL:2,  FP:7.0,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:DEN
+Albert Okwuegbunam,  TIER:ELITE,  SERIAL:14,  FP:5.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:DEN
+Rashard Higgins,  TIER:ELITE,  SERIAL:5,  FP:4.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CAR
+Josh Allen,  TIER:RARE,  SERIAL:5,  FP:22.6,  POS:QB,  OrigPOS:QB,  SS:true,  Team:JAX
+Derek Carr,  TIER:CORE,  SERIAL:547,  FP:17.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+
+Hand: 106,  contestTier: RARE,  TotalFP: 56.7,  stacked: false
+Leonard Williams,  TIER:ELITE,  SERIAL:7,  FP:6.5,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:NYG
+Austin Hooper,  TIER:ELITE,  SERIAL:26,  FP:5.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:TEN
+Terrace Marshall Jr.,  TIER:ELITE,  SERIAL:22,  FP:4.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CAR
+Josh Allen,  TIER:RARE,  SERIAL:27,  FP:22.6,  POS:QB,  OrigPOS:QB,  SS:true,  Team:JAX
+Kirk Cousins,  TIER:CORE,  SERIAL:23,  FP:17.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIN
+
+Hand: 107,  contestTier: RARE,  TotalFP: 56.400000000000006,  stacked: false
+Donte Jackson,  TIER:ELITE,  SERIAL:6,  FP:6.4,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:CAR
+Brevin Jordan,  TIER:ELITE,  SERIAL:4,  FP:5.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:HOU
+Terrace Marshall Jr.,  TIER:ELITE,  SERIAL:27,  FP:4.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CAR
+Josh Allen,  TIER:RARE,  SERIAL:28,  FP:22.6,  POS:QB,  OrigPOS:QB,  SS:true,  Team:JAX
+Kirk Cousins,  TIER:CORE,  SERIAL:38,  FP:17.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIN
+
+Hand: 108,  contestTier: RARE,  TotalFP: 50.5,  stacked: false
+Trey Hendrickson,  TIER:ELITE,  SERIAL:5,  FP:5.8,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:CIN
+Brevin Jordan,  TIER:ELITE,  SERIAL:26,  FP:5.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:HOU
+Seth Williams,  TIER:ELITE,  SERIAL:8,  FP:1.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DEN
+Justin Herbert,  TIER:RARE,  SERIAL:25,  FP:20.8,  POS:QB,  OrigPOS:QB,  SS:true,  Team:LAC
+Kirk Cousins,  TIER:CORE,  SERIAL:190,  FP:17.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIN
+
+Hand: 109,  contestTier: RARE,  TotalFP: 48.2,  stacked: false
+Quinnen Williams,  TIER:ELITE,  SERIAL:5,  FP:5.4,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:NYJ
+Brevin Jordan,  TIER:ELITE,  SERIAL:30,  FP:5.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:HOU
+Richie James Jr.,  TIER:ELITE,  SERIAL:7,  FP:0.5,  POS:WR,  OrigPOS:WR,  SS:false,  Team:SF
+Justin Herbert,  TIER:RARE,  SERIAL:99,  FP:20.8,  POS:QB,  OrigPOS:QB,  SS:true,  Team:LAC
+Mike Evans,  TIER:CORE,  SERIAL:966,  FP:16.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:TB
+
+Hand: 110,  contestTier: RARE,  TotalFP: 43.800000000000004,  stacked: false
+Geoff Swaim,  TIER:ELITE,  SERIAL:8,  FP:4.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:TEN
+Cameron Brate,  TIER:ELITE,  SERIAL:29,  FP:3.2,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:TB
+Richie James Jr.,  TIER:ELITE,  SERIAL:40,  FP:0.5,  POS:WR,  OrigPOS:WR,  SS:false,  Team:SF
+Justin Herbert,  TIER:RARE,  SERIAL:112,  FP:20.8,  POS:QB,  OrigPOS:QB,  SS:true,  Team:LAC
+Leonard Fournette,  TIER:CORE,  SERIAL:17461,  FP:14.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:TB
+
+Hand: 111,  contestTier: RARE,  TotalFP: 39.2,  stacked: false
+Adam Trautman,  TIER:ELITE,  SERIAL:37,  FP:2.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:NO
+Jeremy Ruckert,  TIER:ELITE,  SERIAL:63,  FP:1.4,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:NYJ
+Sterling Shepard,  TIER:ELITE,  SERIAL:5,  FP:0.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Justin Herbert,  TIER:RARE,  SERIAL:192,  FP:20.8,  POS:QB,  OrigPOS:QB,  SS:true,  Team:LAC
+D'Andre Swift,  TIER:CORE,  SERIAL:203,  FP:14.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DET
+
+Hand: 112,  contestTier: RARE,  TotalFP: 34.4,  stacked: false
+Eric Tomlinson,  TIER:ELITE,  SERIAL:3,  FP:1.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:DEN
+James O'Shaughnessy,  TIER:ELITE,  SERIAL:7,  FP:0.9,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:CHI
+Sterling Shepard,  TIER:ELITE,  SERIAL:9,  FP:0.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Daniel Jones,  TIER:RARE,  SERIAL:97,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+D'Andre Swift,  TIER:CORE,  SERIAL:421,  FP:14.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DET
+
+Hand: 113,  contestTier: RARE,  TotalFP: 70.5,  stacked: false
+Chase Young,  TIER:ELITE,  SERIAL:5,  FP:0.0,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:WAS
+Justin Jefferson,  TIER:RARE,  SERIAL:140,  FP:19.7,  POS:WR,  OrigPOS:WR,  SS:true,  Team:MIN
+Joe Burrow,  TIER:RARE,  SERIAL:48,  FP:18.5,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Daniel Jones,  TIER:RARE,  SERIAL:117,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+D'Andre Swift,  TIER:CORE,  SERIAL:897,  FP:14.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DET
+
+Hand: 114,  contestTier: RARE,  TotalFP: 70.7,  stacked: true
+Deion Jones,  TIER:ELITE,  SERIAL:8,  FP:0.0,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:ATL
+Christian McCaffrey,  TIER:RARE,  SERIAL:163,  FP:19.3,  POS:RB,  OrigPOS:RB,  SS:true,  Team:CAR
+Travis Kelce,  TIER:RARE,  SERIAL:15,  FP:17.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
+Tua Tagovailoa,  TIER:RARE,  SERIAL:127,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIA
+Tyreek Hill,  TIER:CORE,  SERIAL:276,  FP:15.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:MIA
+
+Hand: 115,  contestTier: RARE,  TotalFP: 71.30000000000001,  stacked: false
+Deion Jones,  TIER:ELITE,  SERIAL:9,  FP:0.0,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:ATL
+Derrick Henry,  TIER:RARE,  SERIAL:83,  FP:18.6,  POS:RB,  OrigPOS:RB,  SS:true,  Team:TEN
+Travis Kelce,  TIER:RARE,  SERIAL:59,  FP:17.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
+Daniel Jones,  TIER:RARE,  SERIAL:140,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+Davis Mills,  TIER:CORE,  SERIAL:151,  FP:17.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
+
+Hand: 116,  contestTier: RARE,  TotalFP: 82.10000000000001,  stacked: true
+Derrick Henry,  TIER:RARE,  SERIAL:132,  FP:18.6,  POS:RB,  OrigPOS:RB,  SS:true,  Team:TEN
+Travis Kelce,  TIER:RARE,  SERIAL:121,  FP:17.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
+Kirk Cousins,  TIER:RARE,  SERIAL:198,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIN
+K.J. Osborn,  TIER:RARE,  SERIAL:38,  FP:8.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:MIN
+Dak Prescott,  TIER:CORE,  SERIAL:383,  FP:19.7,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:DAL
+
+Hand: 117,  contestTier: RARE,  TotalFP: 83.4,  stacked: true
+Matt Ryan,  TIER:RARE,  SERIAL:75,  FP:17.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
+Jonathan Taylor,  TIER:RARE,  SERIAL:4,  FP:17.3,  POS:RB,  OrigPOS:RB,  SS:true,  Team:IND
+Michael Pittman Jr.,  TIER:RARE,  SERIAL:23,  FP:14.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:IND
+Mike Evans,  TIER:RARE,  SERIAL:70,  FP:16.5,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:TB
+Travis Kelce,  TIER:CORE,  SERIAL:473,  FP:17.9,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:KC
+
+Hand: 118,  contestTier: RARE,  TotalFP: 81.6,  stacked: false
+CeeDee Lamb,  TIER:RARE,  SERIAL:46,  FP:17.2,  POS:WR,  OrigPOS:WR,  SS:true,  Team:DAL
+Davis Mills,  TIER:RARE,  SERIAL:15,  FP:17.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:HOU
+Justin Fields,  TIER:RARE,  SERIAL:8,  FP:16.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CHI
+Mark Andrews,  TIER:RARE,  SERIAL:37,  FP:16.0,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:BAL
+Saquon Barkley,  TIER:CORE,  SERIAL:339,  FP:14.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYG
+
+Hand: 119,  contestTier: RARE,  TotalFP: 81.6,  stacked: false
+CeeDee Lamb,  TIER:RARE,  SERIAL:198,  FP:17.2,  POS:WR,  OrigPOS:WR,  SS:true,  Team:DAL
+Davis Mills,  TIER:RARE,  SERIAL:42,  FP:17.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:HOU
+Justin Fields,  TIER:RARE,  SERIAL:39,  FP:16.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CHI
+Mark Andrews,  TIER:RARE,  SERIAL:45,  FP:16.0,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:BAL
+Saquon Barkley,  TIER:CORE,  SERIAL:429,  FP:14.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYG
+
+Hand: 120,  contestTier: RARE,  TotalFP: 84.9,  stacked: false
+Davis Mills,  TIER:RARE,  SERIAL:73,  FP:17.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
+Najee Harris,  TIER:RARE,  SERIAL:20,  FP:17.0,  POS:RB,  OrigPOS:RB,  SS:true,  Team:PIT
+Justin Fields,  TIER:RARE,  SERIAL:67,  FP:16.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CHI
+Mark Andrews,  TIER:RARE,  SERIAL:55,  FP:16.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:BAL
+Travis Kelce,  TIER:CORE,  SERIAL:934,  FP:17.9,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:KC
+
+Hand: 121,  contestTier: RARE,  TotalFP: 78.7,  stacked: true
+D'Andre Swift,  TIER:RARE,  SERIAL:65,  FP:14.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DET
+Ja'Marr Chase,  TIER:RARE,  SERIAL:24,  FP:17.0,  POS:WRTE,  OrigPOS:WR,  SS:true,  Team:CIN
+Jared Goff,  TIER:RARE,  SERIAL:98,  FP:16.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+Mark Andrews,  TIER:RARE,  SERIAL:77,  FP:16.0,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:BAL
+Saquon Barkley,  TIER:CORE,  SERIAL:712,  FP:14.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYG
+
+Hand: 122,  contestTier: RARE,  TotalFP: 80.79999999999998,  stacked: true
+Amon-Ra St. Brown,  TIER:RARE,  SERIAL:9,  FP:13.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DET
+Najee Harris,  TIER:RARE,  SERIAL:72,  FP:17.0,  POS:RB,  OrigPOS:RB,  SS:true,  Team:PIT
+Jared Goff,  TIER:RARE,  SERIAL:137,  FP:16.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+Tyreek Hill,  TIER:RARE,  SERIAL:62,  FP:15.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:MIA
+Travis Kelce,  TIER:CORE,  SERIAL:956,  FP:17.9,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:KC
+
+Hand: 123,  contestTier: RARE,  TotalFP: 74.0,  stacked: true
+Chris Olave,  TIER:RARE,  SERIAL:42,  FP:10.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NO
+Davante Adams,  TIER:RARE,  SERIAL:10,  FP:16.9,  POS:WRTE,  OrigPOS:WR,  SS:true,  Team:LV
+Jameis Winston,  TIER:RARE,  SERIAL:33,  FP:16.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+Tyreek Hill,  TIER:RARE,  SERIAL:65,  FP:15.8,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:MIA
+Saquon Barkley,  TIER:CORE,  SERIAL:892,  FP:14.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYG
+
+Hand: 124,  contestTier: RARE,  TotalFP: 73.3,  stacked: true
+Chris Olave,  TIER:RARE,  SERIAL:70,  FP:10.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NO
+Davante Adams,  TIER:RARE,  SERIAL:68,  FP:16.9,  POS:WRTE,  OrigPOS:WR,  SS:true,  Team:LV
+Jameis Winston,  TIER:RARE,  SERIAL:40,  FP:16.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+Terry McLaurin,  TIER:RARE,  SERIAL:18,  FP:15.2,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:WAS
+Joe Mixon,  TIER:CORE,  SERIAL:253,  FP:14.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CIN
+
+Hand: 125,  contestTier: RARE,  TotalFP: 75.4,  stacked: true
+Chris Olave,  TIER:RARE,  SERIAL:206,  FP:10.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NO
+Dalvin Cook,  TIER:RARE,  SERIAL:119,  FP:16.6,  POS:RB,  OrigPOS:RB,  SS:true,  Team:MIN
+Jameis Winston,  TIER:RARE,  SERIAL:75,  FP:16.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+Terry McLaurin,  TIER:RARE,  SERIAL:82,  FP:15.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:WAS
+Stefon Diggs,  TIER:CORE,  SERIAL:439,  FP:16.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:BUF
+
+Hand: 126,  contestTier: RARE,  TotalFP: 65.9,  stacked: true
+Jarvis Landry,  TIER:RARE,  SERIAL:66,  FP:5.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NO
+Jameis Winston,  TIER:RARE,  SERIAL:108,  FP:16.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+Terry McLaurin,  TIER:RARE,  SERIAL:199,  FP:15.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:WAS
+Keenan Allen,  TIER:RARE,  SERIAL:66,  FP:14.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:LAC
+Joe Mixon,  TIER:CORE,  SERIAL:412,  FP:14.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CIN
+
+Hand: 127,  contestTier: RARE,  TotalFP: 72.0,  stacked: true
+Jakobi Meyers,  TIER:RARE,  SERIAL:42,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NE
+Mac Jones,  TIER:RARE,  SERIAL:142,  FP:15.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NE
+D'Andre Swift,  TIER:RARE,  SERIAL:80,  FP:14.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DET
+Brandin Cooks,  TIER:RARE,  SERIAL:3,  FP:14.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:HOU
+Stefon Diggs,  TIER:CORE,  SERIAL:535,  FP:16.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:BUF
+
+Hand: 128,  contestTier: RARE,  TotalFP: 72.0,  stacked: true
+Jakobi Meyers,  TIER:RARE,  SERIAL:70,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NE
+Mac Jones,  TIER:RARE,  SERIAL:143,  FP:15.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NE
+D'Andre Swift,  TIER:RARE,  SERIAL:111,  FP:14.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DET
+Brandin Cooks,  TIER:RARE,  SERIAL:68,  FP:14.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:HOU
+Stefon Diggs,  TIER:CORE,  SERIAL:10570,  FP:16.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:BUF
+
+Hand: 129,  contestTier: RARE,  TotalFP: 84.1,  stacked: false
+Davis Mills,  TIER:RARE,  SERIAL:107,  FP:17.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
+Brandin Cooks,  TIER:RARE,  SERIAL:98,  FP:14.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:HOU
+Joe Mixon,  TIER:RARE,  SERIAL:74,  FP:14.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CIN
+Tee Higgins,  TIER:RARE,  SERIAL:62,  FP:14.1,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:CIN
+Jalen Hurts,  TIER:CORE,  SERIAL:187,  FP:24.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:PHI
+
+Hand: 130,  contestTier: RARE,  TotalFP: 83.8,  stacked: false
+Davis Mills,  TIER:RARE,  SERIAL:114,  FP:17.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
+Joe Mixon,  TIER:RARE,  SERIAL:94,  FP:14.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CIN
+Tee Higgins,  TIER:RARE,  SERIAL:97,  FP:14.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Michael Pittman Jr.,  TIER:RARE,  SERIAL:168,  FP:14.1,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:IND
+Jalen Hurts,  TIER:CORE,  SERIAL:996,  FP:24.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:PHI
+
+Hand: 131,  contestTier: RARE,  TotalFP: 70.69999999999999,  stacked: true
+Drake London,  TIER:RARE,  SERIAL:39,  FP:12.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ATL
+Marcus Mariota,  TIER:RARE,  SERIAL:41,  FP:14.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+Aaron Jones,  TIER:RARE,  SERIAL:56,  FP:13.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:GB
+Ezekiel Elliott,  TIER:RARE,  SERIAL:42,  FP:13.6,  POS:FLEX,  OrigPOS:RB,  SS:false,  Team:DAL
+Mike Evans,  TIER:CORE,  SERIAL:52,  FP:16.5,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:TB
+
+Hand: 132,  contestTier: RARE,  TotalFP: 63.2,  stacked: true
+Olamide Zaccheaus,  TIER:RARE,  SERIAL:164,  FP:6.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ATL
+Marcus Mariota,  TIER:RARE,  SERIAL:63,  FP:14.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+Aaron Jones,  TIER:RARE,  SERIAL:184,  FP:13.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:GB
+Ezekiel Elliott,  TIER:RARE,  SERIAL:194,  FP:13.6,  POS:FLEX,  OrigPOS:RB,  SS:false,  Team:DAL
+Tyreek Hill,  TIER:CORE,  SERIAL:354,  FP:15.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:MIA
+
+Hand: 133,  contestTier: RARE,  TotalFP: 74.2,  stacked: true
+Russell Gage,  TIER:RARE,  SERIAL:7,  FP:13.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Amon-Ra St. Brown,  TIER:RARE,  SERIAL:34,  FP:13.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DET
+Mike Williams,  TIER:RARE,  SERIAL:120,  FP:13.3,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:LAC
+James Conner,  TIER:RARE,  SERIAL:64,  FP:13.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ARI
+Tom Brady,  TIER:CORE,  SERIAL:19,  FP:21.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TB
+
+Hand: 134,  contestTier: RARE,  TotalFP: 74.0,  stacked: true
+Russell Gage,  TIER:RARE,  SERIAL:111,  FP:13.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Amon-Ra St. Brown,  TIER:RARE,  SERIAL:118,  FP:13.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DET
+James Conner,  TIER:RARE,  SERIAL:2,  FP:13.2,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:ARI
+Nick Chubb,  TIER:RARE,  SERIAL:30,  FP:13.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+Tom Brady,  TIER:CORE,  SERIAL:560,  FP:21.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TB
+
+Hand: 135,  contestTier: RARE,  TotalFP: 73.6,  stacked: true
+Russell Gage,  TIER:RARE,  SERIAL:174,  FP:13.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Nick Chubb,  TIER:RARE,  SERIAL:116,  FP:13.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+Tyler Lockett,  TIER:RARE,  SERIAL:123,  FP:13.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:SEA
+Russell Gage,  TIER:RARE,  SERIAL:169,  FP:13.1,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:TB
+Tom Brady,  TIER:CORE,  SERIAL:629,  FP:21.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TB
+
+Hand: 136,  contestTier: RARE,  TotalFP: 61.3,  stacked: true
+Robbie Anderson,  TIER:RARE,  SERIAL:73,  FP:8.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CAR
+Rashod Bateman,  TIER:RARE,  SERIAL:38,  FP:13.0,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BAL
+Gabriel Davis,  TIER:RARE,  SERIAL:27,  FP:12.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:BUF
+Baker Mayfield,  TIER:RARE,  SERIAL:28,  FP:12.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
+Joe Mixon,  TIER:CORE,  SERIAL:835,  FP:14.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CIN
+
+Hand: 137,  contestTier: RARE,  TotalFP: 56.5,  stacked: true
+Terrace Marshall Jr.,  TIER:RARE,  SERIAL:49,  FP:4.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CAR
+Rashod Bateman,  TIER:RARE,  SERIAL:82,  FP:13.0,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BAL
+Gabriel Davis,  TIER:RARE,  SERIAL:53,  FP:12.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:BUF
+Baker Mayfield,  TIER:RARE,  SERIAL:55,  FP:12.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
+Aaron Jones,  TIER:CORE,  SERIAL:888,  FP:13.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:GB
+
+Hand: 138,  contestTier: RARE,  TotalFP: 67.6,  stacked: false
+Davis Mills,  TIER:RARE,  SERIAL:180,  FP:17.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
+Baker Mayfield,  TIER:RARE,  SERIAL:72,  FP:12.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
+Allen Robinson II,  TIER:RARE,  SERIAL:75,  FP:12.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:LAR
+Kyle Pitts,  TIER:RARE,  SERIAL:8,  FP:12.2,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:ATL
+Ezekiel Elliott,  TIER:CORE,  SERIAL:345,  FP:13.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DAL
+
+Hand: 139,  contestTier: RARE,  TotalFP: 68.9,  stacked: false
+Kyle Pitts,  TIER:RARE,  SERIAL:17,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Michael Thomas,  TIER:RARE,  SERIAL:15,  FP:12.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CIN
+Javonte Williams,  TIER:RARE,  SERIAL:38,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DEN
+David Montgomery,  TIER:RARE,  SERIAL:65,  FP:12.0,  POS:FLEX,  OrigPOS:RB,  SS:false,  Team:CHI
+Kyler Murray,  TIER:CORE,  SERIAL:366,  FP:20.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ARI
+
+Hand: 140,  contestTier: RARE,  TotalFP: 68.9,  stacked: false
+Kyle Pitts,  TIER:RARE,  SERIAL:75,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Michael Thomas,  TIER:RARE,  SERIAL:32,  FP:12.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CIN
+Javonte Williams,  TIER:RARE,  SERIAL:47,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DEN
+David Montgomery,  TIER:RARE,  SERIAL:71,  FP:12.0,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:CHI
+Kyler Murray,  TIER:CORE,  SERIAL:474,  FP:20.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ARI
+
+Hand: 141,  contestTier: RARE,  TotalFP: 68.6,  stacked: false
+Kyle Pitts,  TIER:RARE,  SERIAL:84,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Javonte Williams,  TIER:RARE,  SERIAL:99,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DEN
+DeVonta Smith,  TIER:RARE,  SERIAL:3,  FP:11.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PHI
+Elijah Moore,  TIER:RARE,  SERIAL:94,  FP:11.9,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:NYJ
+Kyler Murray,  TIER:CORE,  SERIAL:572,  FP:20.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ARI
+
+Hand: 142,  contestTier: RARE,  TotalFP: 67.10000000000001,  stacked: true
+Jahan Dotson,  TIER:RARE,  SERIAL:195,  FP:11.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:WAS
+Jahan Dotson,  TIER:RARE,  SERIAL:28,  FP:11.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:WAS
+Jaylen Waddle,  TIER:RARE,  SERIAL:31,  FP:11.8,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:MIA
+J.K. Dobbins,  TIER:RARE,  SERIAL:29,  FP:11.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
+Carson Wentz,  TIER:CORE,  SERIAL:8,  FP:20.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+
+Hand: 143,  contestTier: RARE,  TotalFP: 67.10000000000001,  stacked: false
+DeVonta Smith,  TIER:RARE,  SERIAL:15,  FP:11.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PHI
+Hunter Renfrow,  TIER:RARE,  SERIAL:64,  FP:11.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:LV
+Marquez Valdes-Scantling,  TIER:RARE,  SERIAL:36,  FP:11.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:KC
+J.K. Dobbins,  TIER:RARE,  SERIAL:63,  FP:11.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
+Carson Wentz,  TIER:CORE,  SERIAL:25,  FP:20.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+
+Hand: 144,  contestTier: RARE,  TotalFP: 66.7,  stacked: false
+Hunter Renfrow,  TIER:RARE,  SERIAL:103,  FP:11.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LV
+Marquez Valdes-Scantling,  TIER:RARE,  SERIAL:114,  FP:11.7,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:KC
+Christian Kirk,  TIER:RARE,  SERIAL:62,  FP:11.6,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:JAX
+Cordarrelle Patterson,  TIER:RARE,  SERIAL:27,  FP:11.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ATL
+Carson Wentz,  TIER:CORE,  SERIAL:299,  FP:20.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+
+Hand: 145,  contestTier: RARE,  TotalFP: 62.4,  stacked: false
+Kenny Golladay,  TIER:RARE,  SERIAL:62,  FP:11.5,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Cordarrelle Patterson,  TIER:RARE,  SERIAL:117,  FP:11.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ATL
+Allen Lazard,  TIER:RARE,  SERIAL:13,  FP:11.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:GB
+Diontae Johnson,  TIER:RARE,  SERIAL:89,  FP:11.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:PIT
+Davis Mills,  TIER:CORE,  SERIAL:299,  FP:17.1,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:HOU
+
+Hand: 146,  contestTier: RARE,  TotalFP: 64.19999999999999,  stacked: false
+Kenny Golladay,  TIER:RARE,  SERIAL:133,  FP:11.5,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Allen Lazard,  TIER:RARE,  SERIAL:45,  FP:11.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:GB
+Darren Waller,  TIER:RARE,  SERIAL:171,  FP:11.0,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:LV
+Dalton Schultz,  TIER:RARE,  SERIAL:37,  FP:10.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DAL
+Carson Wentz,  TIER:CORE,  SERIAL:302,  FP:20.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+
+Hand: 147,  contestTier: RARE,  TotalFP: 63.1,  stacked: false
+Darren Waller,  TIER:RARE,  SERIAL:176,  FP:11.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LV
+Devin Duvernay,  TIER:RARE,  SERIAL:32,  FP:10.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BAL
+Marvin Jones Jr.,  TIER:RARE,  SERIAL:36,  FP:10.9,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:JAX
+Clyde Edwards-Helaire,  TIER:RARE,  SERIAL:68,  FP:10.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:KC
+Carson Wentz,  TIER:CORE,  SERIAL:852,  FP:20.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+
+Hand: 148,  contestTier: RARE,  TotalFP: 62.400000000000006,  stacked: false
+Devin Duvernay,  TIER:RARE,  SERIAL:73,  FP:10.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BAL
+Marvin Jones Jr.,  TIER:RARE,  SERIAL:108,  FP:10.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:JAX
+Juju Smith-Schuster,  TIER:RARE,  SERIAL:45,  FP:10.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:KC
+Clyde Edwards-Helaire,  TIER:RARE,  SERIAL:123,  FP:10.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:KC
+Dak Prescott,  TIER:CORE,  SERIAL:567,  FP:19.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DAL
+
+Hand: 149,  contestTier: RARE,  TotalFP: 59.89999999999999,  stacked: true
+Van Jefferson,  TIER:RARE,  SERIAL:94,  FP:9.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAR
+Juju Smith-Schuster,  TIER:RARE,  SERIAL:80,  FP:10.7,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:KC
+Tyler Boyd,  TIER:RARE,  SERIAL:47,  FP:10.6,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:CIN
+Dallas Goedert,  TIER:RARE,  SERIAL:127,  FP:10.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+Matthew Stafford,  TIER:CORE,  SERIAL:13,  FP:19.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:LAR
+
+Hand: 150,  contestTier: RARE,  TotalFP: 61.2,  stacked: false
+Devin Duvernay,  TIER:RARE,  SERIAL:107,  FP:10.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BAL
+Tyler Boyd,  TIER:RARE,  SERIAL:130,  FP:10.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Chris Godwin,  TIER:RARE,  SERIAL:140,  FP:10.6,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:TB
+Antonio Gibson,  TIER:RARE,  SERIAL:28,  FP:9.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:WAS
+Matthew Stafford,  TIER:CORE,  SERIAL:155,  FP:19.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:LAR
+
+Hand: 151,  contestTier: RARE,  TotalFP: 60.599999999999994,  stacked: false
+Chris Godwin,  TIER:RARE,  SERIAL:151,  FP:10.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Courtland Sutton,  TIER:RARE,  SERIAL:36,  FP:10.5,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DEN
+Jerry Jeudy,  TIER:RARE,  SERIAL:18,  FP:10.4,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:DEN
+Kareem Hunt,  TIER:RARE,  SERIAL:34,  FP:9.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+Trey Lance,  TIER:CORE,  SERIAL:471,  FP:19.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
+
+Hand: 152,  contestTier: RARE,  TotalFP: 59.6,  stacked: true
+Robert Woods,  TIER:RARE,  SERIAL:12,  FP:10.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Jerry Jeudy,  TIER:RARE,  SERIAL:92,  FP:10.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DEN
+Rondale Moore,  TIER:RARE,  SERIAL:93,  FP:10.4,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:ARI
+Miles Sanders,  TIER:RARE,  SERIAL:20,  FP:9.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+Ryan Tannehill,  TIER:CORE,  SERIAL:511,  FP:19.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+
+Hand: 153,  contestTier: RARE,  TotalFP: 59.4,  stacked: true
+Robert Woods,  TIER:RARE,  SERIAL:179,  FP:10.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Jerry Jeudy,  TIER:RARE,  SERIAL:92,  FP:10.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DEN
+Robert Woods,  TIER:RARE,  SERIAL:22,  FP:10.2,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:TEN
+Miles Sanders,  TIER:RARE,  SERIAL:74,  FP:9.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+Ryan Tannehill,  TIER:CORE,  SERIAL:589,  FP:19.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+
+Hand: 154,  contestTier: RARE,  TotalFP: 55.1,  stacked: true
+Treylon Burks,  TIER:RARE,  SERIAL:71,  FP:6.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Kadarius Toney,  TIER:RARE,  SERIAL:61,  FP:10.0,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYG
+Brandon Aiyuk,  TIER:RARE,  SERIAL:82,  FP:9.8,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:SF
+Miles Sanders,  TIER:RARE,  SERIAL:164,  FP:9.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+Ryan Tannehill,  TIER:CORE,  SERIAL:1152,  FP:19.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+
+Hand: 155,  contestTier: RARE,  TotalFP: 58.2,  stacked: false
+Courtland Sutton,  TIER:RARE,  SERIAL:81,  FP:10.5,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DEN
+Kadarius Toney,  TIER:RARE,  SERIAL:93,  FP:10.0,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYG
+Chase Claypool,  TIER:RARE,  SERIAL:132,  FP:9.6,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:PIT
+Miles Sanders,  TIER:RARE,  SERIAL:171,  FP:9.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+Joe Burrow,  TIER:CORE,  SERIAL:91,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+
+Hand: 156,  contestTier: RARE,  TotalFP: 57.0,  stacked: false
+Kadarius Toney,  TIER:RARE,  SERIAL:95,  FP:10.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+George Pickens,  TIER:RARE,  SERIAL:405,  FP:9.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:PIT
+Evan McPherson,  TIER:RARE,  SERIAL:92,  FP:9.5,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:CIN
+Tony Pollard,  TIER:RARE,  SERIAL:25,  FP:9.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DAL
+Joe Burrow,  TIER:CORE,  SERIAL:295,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+
+Hand: 157,  contestTier: RARE,  TotalFP: 56.0,  stacked: false
+Nick Bosa,  TIER:RARE,  SERIAL:31,  FP:9.4,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:SF
+Tony Pollard,  TIER:RARE,  SERIAL:94,  FP:9.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DAL
+Wan'Dale Robinson,  TIER:RARE,  SERIAL:294,  FP:9.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Jason Sanders,  TIER:RARE,  SERIAL:32,  FP:9.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:MIA
+Joe Burrow,  TIER:CORE,  SERIAL:398,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+
+Hand: 158,  contestTier: RARE,  TotalFP: 55.900000000000006,  stacked: false
+Tony Pollard,  TIER:RARE,  SERIAL:186,  FP:9.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DAL
+Wan'Dale Robinson,  TIER:RARE,  SERIAL:458,  FP:9.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Harrison Smith,  TIER:RARE,  SERIAL:26,  FP:9.3,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:MIN
+Donovan Peoples-Jones,  TIER:RARE,  SERIAL:117,  FP:9.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CLE
+Joe Burrow,  TIER:CORE,  SERIAL:587,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+
+Hand: 159,  contestTier: RARE,  TotalFP: 55.5,  stacked: false
+Harrison Smith,  TIER:RARE,  SERIAL:32,  FP:9.3,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:MIN
+Donovan Peoples-Jones,  TIER:RARE,  SERIAL:117,  FP:9.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Damien Harris,  TIER:RARE,  SERIAL:29,  FP:9.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+Michael Gallup,  TIER:RARE,  SERIAL:38,  FP:9.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DAL
+Joe Burrow,  TIER:CORE,  SERIAL:811,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+
+Hand: 160,  contestTier: RARE,  TotalFP: 55.199999999999996,  stacked: false
+Vonn Bell,  TIER:RARE,  SERIAL:2,  FP:9.2,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:CIN
+Damien Harris,  TIER:RARE,  SERIAL:41,  FP:9.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+Michael Gallup,  TIER:RARE,  SERIAL:43,  FP:9.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DAL
+David Njoku,  TIER:RARE,  SERIAL:97,  FP:9.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CLE
+Joe Burrow,  TIER:CORE,  SERIAL:891,  FP:18.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+
+Hand: 161,  contestTier: RARE,  TotalFP: 51.7,  stacked: true
+Marlon Humphrey,  TIER:RARE,  SERIAL:5,  FP:9.2,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:BAL
+Tyler Higbee,  TIER:RARE,  SERIAL:52,  FP:9.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LAR
+Chase Edmonds,  TIER:RARE,  SERIAL:1,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Zay Jones,  TIER:RARE,  SERIAL:29,  FP:6.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Trevor Lawrence,  TIER:CORE,  SERIAL:33,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 162,  contestTier: RARE,  TotalFP: 51.7,  stacked: true
+Matt Prater,  TIER:RARE,  SERIAL:10,  FP:9.2,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:ARI
+Tyler Higbee,  TIER:RARE,  SERIAL:89,  FP:9.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LAR
+Chase Edmonds,  TIER:RARE,  SERIAL:6,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Zay Jones,  TIER:RARE,  SERIAL:53,  FP:6.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Trevor Lawrence,  TIER:CORE,  SERIAL:158,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 163,  contestTier: RARE,  TotalFP: 53.199999999999996,  stacked: false
+Brandon McManus,  TIER:RARE,  SERIAL:11,  FP:9.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:DEN
+Greg Zuerlein,  TIER:RARE,  SERIAL:79,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYJ
+Zach Ertz,  TIER:RARE,  SERIAL:29,  FP:8.7,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ARI
+A.J. Green,  TIER:RARE,  SERIAL:32,  FP:8.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ARI
+Trevor Lawrence,  TIER:CORE,  SERIAL:168,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 164,  contestTier: RARE,  TotalFP: 53.0,  stacked: false
+Greg Joseph,  TIER:RARE,  SERIAL:35,  FP:9.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:MIN
+Chase Edmonds,  TIER:RARE,  SERIAL:141,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+A.J. Green,  TIER:RARE,  SERIAL:66,  FP:8.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ARI
+Robert Tonyan,  TIER:RARE,  SERIAL:49,  FP:8.5,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:GB
+Trevor Lawrence,  TIER:CORE,  SERIAL:285,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 165,  contestTier: RARE,  TotalFP: 52.8,  stacked: false
+Matt Gay,  TIER:RARE,  SERIAL:67,  FP:9.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:LAR
+Rashaad Penny,  TIER:RARE,  SERIAL:127,  FP:8.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SEA
+A.J. Green,  TIER:RARE,  SERIAL:82,  FP:8.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ARI
+Robert Tonyan,  TIER:RARE,  SERIAL:63,  FP:8.5,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:GB
+Trevor Lawrence,  TIER:CORE,  SERIAL:660,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 166,  contestTier: RARE,  TotalFP: 52.49999999999999,  stacked: false
+Joey Slye,  TIER:RARE,  SERIAL:109,  FP:9.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:WAS
+Breece Hall,  TIER:RARE,  SERIAL:417,  FP:8.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYJ
+Robert Tonyan,  TIER:RARE,  SERIAL:108,  FP:8.5,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:GB
+Sammy Watkins,  TIER:RARE,  SERIAL:171,  FP:8.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:GB
+Trevor Lawrence,  TIER:CORE,  SERIAL:775,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 167,  contestTier: RARE,  TotalFP: 50.8,  stacked: false
+Cade York,  TIER:RARE,  SERIAL:188,  FP:9.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:CLE
+Cole Kmet,  TIER:RARE,  SERIAL:142,  FP:8.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CHI
+Cairo Santos,  TIER:RARE,  SERIAL:8,  FP:8.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CHI
+Nyheim Hines,  TIER:RARE,  SERIAL:119,  FP:7.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:IND
+Trevor Lawrence,  TIER:CORE,  SERIAL:780,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 168,  contestTier: RARE,  TotalFP: 50.6,  stacked: false
+Robbie Gould,  TIER:RARE,  SERIAL:8,  FP:9.0,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:SF
+Cole Kmet,  TIER:RARE,  SERIAL:170,  FP:8.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CHI
+Noah Fant,  TIER:RARE,  SERIAL:16,  FP:7.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:SEA
+Nyheim Hines,  TIER:RARE,  SERIAL:191,  FP:7.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:IND
+Trevor Lawrence,  TIER:CORE,  SERIAL:789,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 169,  contestTier: RARE,  TotalFP: 50.099999999999994,  stacked: false
+Ka'imi Fairbairn,  TIER:RARE,  SERIAL:18,  FP:9.0,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:HOU
+Noah Fant,  TIER:RARE,  SERIAL:10,  FP:7.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:SEA
+Nyheim Hines,  TIER:RARE,  SERIAL:35,  FP:7.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:IND
+Mike Gesicki,  TIER:RARE,  SERIAL:73,  FP:7.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Trevor Lawrence,  TIER:CORE,  SERIAL:995,  FP:17.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 170,  contestTier: RARE,  TotalFP: 50.0,  stacked: false
+Robbie Gould,  TIER:RARE,  SERIAL:48,  FP:9.0,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:SF
+Noah Fant,  TIER:RARE,  SERIAL:111,  FP:7.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:SEA
+Skyy Moore,  TIER:RARE,  SERIAL:207,  FP:7.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:KC
+Mike Gesicki,  TIER:RARE,  SERIAL:112,  FP:7.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Zach Wilson,  TIER:CORE,  SERIAL:274,  FP:17.8,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYJ
+
+Hand: 171,  contestTier: RARE,  TotalFP: 49.89999999999999,  stacked: false
+Robbie Gould,  TIER:RARE,  SERIAL:50,  FP:9.0,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:SF
+Noah Fant,  TIER:RARE,  SERIAL:142,  FP:7.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:SEA
+Skyy Moore,  TIER:RARE,  SERIAL:271,  FP:7.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:KC
+Mike Gesicki,  TIER:RARE,  SERIAL:191,  FP:7.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Daniel Jones,  TIER:CORE,  SERIAL:214,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+
+Hand: 172,  contestTier: RARE,  TotalFP: 49.400000000000006,  stacked: false
+Harrison Butker,  TIER:RARE,  SERIAL:18,  FP:8.9,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:KC
+Skyy Moore,  TIER:RARE,  SERIAL:463,  FP:7.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:KC
+Devante Parker,  TIER:RARE,  SERIAL:19,  FP:7.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NE
+Brian Robinson Jr.,  TIER:RARE,  SERIAL:55,  FP:7.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:WAS
+Tua Tagovailoa,  TIER:CORE,  SERIAL:249,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIA
+
+Hand: 173,  contestTier: RARE,  TotalFP: 48.599999999999994,  stacked: false
+Randy Bullock,  TIER:RARE,  SERIAL:48,  FP:8.9,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:TEN
+Irv Smith Jr.,  TIER:RARE,  SERIAL:91,  FP:7.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:MIN
+Brian Robinson Jr.,  TIER:RARE,  SERIAL:81,  FP:7.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:WAS
+David Bell,  TIER:RARE,  SERIAL:182,  FP:6.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Kirk Cousins,  TIER:CORE,  SERIAL:261,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIN
+
+Hand: 174,  contestTier: RARE,  TotalFP: 48.5,  stacked: false
+Greg Zuerlein,  TIER:RARE,  SERIAL:50,  FP:8.9,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NYJ
+Irv Smith Jr.,  TIER:RARE,  SERIAL:110,  FP:7.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:MIN
+Brian Robinson Jr.,  TIER:RARE,  SERIAL:333,  FP:7.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:WAS
+Byron Pringle,  TIER:RARE,  SERIAL:115,  FP:6.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CHI
+Tua Tagovailoa,  TIER:CORE,  SERIAL:264,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIA
+
+Hand: 175,  contestTier: RARE,  TotalFP: 47.8,  stacked: false
+Jason Myers,  TIER:RARE,  SERIAL:57,  FP:8.9,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:SEA
+Will Dissly,  TIER:RARE,  SERIAL:21,  FP:7.3,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:SEA
+Michael Carter,  TIER:RARE,  SERIAL:11,  FP:7.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYJ
+Mecole Hardman,  TIER:RARE,  SERIAL:131,  FP:6.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:KC
+Daniel Jones,  TIER:CORE,  SERIAL:364,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+
+Hand: 176,  contestTier: RARE,  TotalFP: 47.10000000000001,  stacked: false
+Harrison Butker,  TIER:RARE,  SERIAL:67,  FP:8.9,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:KC
+Hunter Henry,  TIER:RARE,  SERIAL:58,  FP:7.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:NE
+Jamaal Williams,  TIER:RARE,  SERIAL:70,  FP:7.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DET
+Drew Lock,  TIER:RARE,  SERIAL:175,  FP:6.8,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SEA
+Davis Mills,  TIER:CORE,  SERIAL:512,  FP:17.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
+
+Hand: 177,  contestTier: RARE,  TotalFP: 47.0,  stacked: false
+Justin Tucker,  TIER:RARE,  SERIAL:6,  FP:8.8,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:BAL
+Hunter Henry,  TIER:RARE,  SERIAL:82,  FP:7.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:NE
+Mecole Hardman,  TIER:RARE,  SERIAL:183,  FP:6.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:KC
+Kenyan Drake,  TIER:RARE,  SERIAL:44,  FP:6.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+Kirk Cousins,  TIER:CORE,  SERIAL:398,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIN
+
+Hand: 178,  contestTier: RARE,  TotalFP: 46.4,  stacked: false
+Justin Tucker,  TIER:RARE,  SERIAL:115,  FP:8.8,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:BAL
+Mo Alie-Cox,  TIER:RARE,  SERIAL:59,  FP:6.7,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:IND
+Treylon Burks,  TIER:RARE,  SERIAL:308,  FP:6.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Kenyan Drake,  TIER:RARE,  SERIAL:145,  FP:6.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+Daniel Jones,  TIER:CORE,  SERIAL:402,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+
+Hand: 179,  contestTier: RARE,  TotalFP: 45.8,  stacked: false
+Younghoe Koo,  TIER:RARE,  SERIAL:81,  FP:8.7,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:ATL
+Treylon Burks,  TIER:RARE,  SERIAL:445,  FP:6.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Pat Freiermuth,  TIER:RARE,  SERIAL:67,  FP:6.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:PIT
+Rex Burkhead,  TIER:RARE,  SERIAL:104,  FP:6.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:HOU
+Daniel Jones,  TIER:CORE,  SERIAL:440,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+
+Hand: 180,  contestTier: RARE,  TotalFP: 45.599999999999994,  stacked: false
+Nick Folk,  TIER:RARE,  SERIAL:89,  FP:8.7,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NE
+Treylon Burks,  TIER:RARE,  SERIAL:472,  FP:6.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Hayden Hurst,  TIER:RARE,  SERIAL:3,  FP:6.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CIN
+Rex Burkhead,  TIER:RARE,  SERIAL:130,  FP:6.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:HOU
+Daniel Jones,  TIER:CORE,  SERIAL:462,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+
+Hand: 181,  contestTier: RARE,  TotalFP: 45.3,  stacked: false
+Nick Folk,  TIER:RARE,  SERIAL:97,  FP:8.7,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NE
+Chris Conley,  TIER:RARE,  SERIAL:12,  FP:6.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
+Hayden Hurst,  TIER:RARE,  SERIAL:23,  FP:6.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CIN
+Rex Burkhead,  TIER:RARE,  SERIAL:196,  FP:6.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:HOU
+Kirk Cousins,  TIER:CORE,  SERIAL:662,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIN
+
+Hand: 182,  contestTier: RARE,  TotalFP: 44.5,  stacked: false
+Rodrigo Blankenship,  TIER:RARE,  SERIAL:47,  FP:8.6,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:IND
+Hayden Hurst,  TIER:RARE,  SERIAL:45,  FP:6.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CIN
+Jamison Crowder,  TIER:RARE,  SERIAL:11,  FP:6.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Marlon Mack,  TIER:RARE,  SERIAL:40,  FP:5.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:HOU
+Daniel Jones,  TIER:CORE,  SERIAL:720,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+
+Hand: 183,  contestTier: RARE,  TotalFP: 44.5,  stacked: false
+Daniel Carlson,  TIER:RARE,  SERIAL:96,  FP:8.6,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:LV
+Hayden Hurst,  TIER:RARE,  SERIAL:64,  FP:6.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CIN
+Jamison Crowder,  TIER:RARE,  SERIAL:38,  FP:6.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Marlon Mack,  TIER:RARE,  SERIAL:170,  FP:5.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:HOU
+Daniel Jones,  TIER:CORE,  SERIAL:795,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+
+Hand: 184,  contestTier: RARE,  TotalFP: 44.2,  stacked: false
+Jerome Baker,  TIER:RARE,  SERIAL:13,  FP:8.5,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:MIA
+Hayden Hurst,  TIER:RARE,  SERIAL:125,  FP:6.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CIN
+Romeo Doubs,  TIER:RARE,  SERIAL:417,  FP:6.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:GB
+Gus Edwards,  TIER:RARE,  SERIAL:97,  FP:5.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
+Tua Tagovailoa,  TIER:CORE,  SERIAL:954,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:MIA
+
+Hand: 185,  contestTier: RARE,  TotalFP: 43.7,  stacked: false
+Jake Elliott,  TIER:RARE,  SERIAL:119,  FP:8.5,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:PHI
+Evan Engram,  TIER:RARE,  SERIAL:89,  FP:6.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:JAX
+Isaiah McKenzie,  TIER:RARE,  SERIAL:12,  FP:5.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BUF
+Gus Edwards,  TIER:RARE,  SERIAL:97,  FP:5.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
+Daniel Jones,  TIER:CORE,  SERIAL:1014,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+
+Hand: 186,  contestTier: RARE,  TotalFP: 43.5,  stacked: false
+Jake Elliott,  TIER:RARE,  SERIAL:120,  FP:8.5,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:PHI
+Logan Thomas,  TIER:RARE,  SERIAL:91,  FP:6.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:WAS
+Javon Hargrave,  TIER:RARE,  SERIAL:4,  FP:5.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PHI
+Gus Edwards,  TIER:RARE,  SERIAL:199,  FP:5.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
+Daniel Jones,  TIER:CORE,  SERIAL:1457,  FP:17.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+
+Hand: 187,  contestTier: RARE,  TotalFP: 42.7,  stacked: true
+Chris Boswell,  TIER:RARE,  SERIAL:23,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:PIT
+Logan Thomas,  TIER:RARE,  SERIAL:136,  FP:6.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:WAS
+Parris Campbell,  TIER:RARE,  SERIAL:24,  FP:5.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:IND
+Mark Ingram II,  TIER:RARE,  SERIAL:25,  FP:5.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NO
+Matt Ryan,  TIER:CORE,  SERIAL:49,  FP:17.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
+
+Hand: 188,  contestTier: RARE,  TotalFP: 42.800000000000004,  stacked: false
+Mason Crosby,  TIER:RARE,  SERIAL:24,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:GB
+Javon Hargrave,  TIER:RARE,  SERIAL:6,  FP:5.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PHI
+Dez Fitzpatrick,  TIER:RARE,  SERIAL:26,  FP:5.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:TEN
+Mark Ingram II,  TIER:RARE,  SERIAL:50,  FP:5.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NO
+Matt Ryan,  TIER:CORE,  SERIAL:245,  FP:17.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
+
+Hand: 189,  contestTier: RARE,  TotalFP: 42.800000000000004,  stacked: false
+Wil Lutz,  TIER:RARE,  SERIAL:28,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NO
+Javon Hargrave,  TIER:RARE,  SERIAL:35,  FP:5.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PHI
+Jarvis Landry,  TIER:RARE,  SERIAL:79,  FP:5.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NO
+Mark Ingram II,  TIER:RARE,  SERIAL:78,  FP:5.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NO
+Matt Ryan,  TIER:CORE,  SERIAL:801,  FP:17.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
+
+Hand: 190,  contestTier: RARE,  TotalFP: 42.5,  stacked: false
+Chris Boswell,  TIER:RARE,  SERIAL:52,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:PIT
+Jarvis Landry,  TIER:RARE,  SERIAL:165,  FP:5.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NO
+Mark Ingram II,  TIER:RARE,  SERIAL:92,  FP:5.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NO
+Freddie Swain,  TIER:RARE,  SERIAL:14,  FP:5.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:SEA
+Matt Ryan,  TIER:CORE,  SERIAL:818,  FP:17.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
+
+Hand: 191,  contestTier: RARE,  TotalFP: 41.900000000000006,  stacked: false
+Mason Crosby,  TIER:RARE,  SERIAL:65,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:GB
+Equanimeous St. Brown,  TIER:RARE,  SERIAL:53,  FP:5.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CHI
+Kendrick Bourne,  TIER:RARE,  SERIAL:81,  FP:5.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NE
+Boston Scott,  TIER:RARE,  SERIAL:7,  FP:5.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+Matt Ryan,  TIER:CORE,  SERIAL:852,  FP:17.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
+
+Hand: 192,  contestTier: RARE,  TotalFP: 41.0,  stacked: false
+Wil Lutz,  TIER:RARE,  SERIAL:69,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NO
+Equanimeous St. Brown,  TIER:RARE,  SERIAL:58,  FP:5.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CHI
+Tyquan Thornton,  TIER:RARE,  SERIAL:12,  FP:5.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NE
+Isaiah Spiller,  TIER:RARE,  SERIAL:284,  FP:4.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LAC
+Matt Ryan,  TIER:CORE,  SERIAL:882,  FP:17.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
+
+Hand: 193,  contestTier: RARE,  TotalFP: 40.3,  stacked: false
+Wil Lutz,  TIER:RARE,  SERIAL:77,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NO
+Equanimeous St. Brown,  TIER:RARE,  SERIAL:62,  FP:5.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CHI
+Albert Okwuegbunam,  TIER:RARE,  SERIAL:13,  FP:5.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:DEN
+Isaiah Spiller,  TIER:RARE,  SERIAL:369,  FP:4.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LAC
+Justin Fields,  TIER:CORE,  SERIAL:89,  FP:16.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CHI
+
+Hand: 194,  contestTier: RARE,  TotalFP: 39.8,  stacked: false
+Ryan Succop,  TIER:RARE,  SERIAL:86,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:TB
+Darius Slayton,  TIER:RARE,  SERIAL:19,  FP:5.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Austin Hooper,  TIER:RARE,  SERIAL:41,  FP:5.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:TEN
+Zamir White,  TIER:RARE,  SERIAL:195,  FP:4.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+Jared Goff,  TIER:CORE,  SERIAL:69,  FP:16.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+
+Hand: 195,  contestTier: RARE,  TotalFP: 36.2,  stacked: false
+Wil Lutz,  TIER:RARE,  SERIAL:102,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NO
+Tyquan Thornton,  TIER:RARE,  SERIAL:291,  FP:5.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NE
+Brevin Jordan,  TIER:RARE,  SERIAL:91,  FP:5.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:HOU
+Taysom Hill,  TIER:RARE,  SERIAL:35,  FP:4.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+Ezekiel Elliott,  TIER:CORE,  SERIAL:475,  FP:13.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DAL
+
+Hand: 196,  contestTier: RARE,  TotalFP: 38.5,  stacked: false
+Ryan Succop,  TIER:RARE,  SERIAL:106,  FP:8.4,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:TB
+Brevin Jordan,  TIER:RARE,  SERIAL:148,  FP:5.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:HOU
+Braxton Berrios,  TIER:RARE,  SERIAL:13,  FP:4.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYJ
+Khalil Herbert,  TIER:RARE,  SERIAL:3,  FP:3.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CHI
+Jared Goff,  TIER:CORE,  SERIAL:148,  FP:16.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+
+Hand: 197,  contestTier: RARE,  TotalFP: 36.7,  stacked: false
+Graham Gano,  TIER:RARE,  SERIAL:114,  FP:8.3,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:NYG
+Greg Dulcich,  TIER:RARE,  SERIAL:180,  FP:4.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:DEN
+Marquez Callaway,  TIER:RARE,  SERIAL:25,  FP:3.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NO
+Khalil Herbert,  TIER:RARE,  SERIAL:50,  FP:3.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CHI
+Jared Goff,  TIER:CORE,  SERIAL:280,  FP:16.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+
+Hand: 198,  contestTier: RARE,  TotalFP: 36.0,  stacked: false
+Xavier Mckinney,  TIER:RARE,  SERIAL:20,  FP:8.2,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:NYG
+Marquez Callaway,  TIER:RARE,  SERIAL:113,  FP:3.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NO
+James Robinson,  TIER:RARE,  SERIAL:30,  FP:3.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:JAX
+Quez Watkins,  TIER:RARE,  SERIAL:12,  FP:3.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:PHI
+Jared Goff,  TIER:CORE,  SERIAL:458,  FP:16.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+
+Hand: 199,  contestTier: RARE,  TotalFP: 35.7,  stacked: false
+Adrian Amos,  TIER:RARE,  SERIAL:37,  FP:8.2,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:GB
+Giovani Bernard,  TIER:RARE,  SERIAL:55,  FP:3.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:TB
+Quez Watkins,  TIER:RARE,  SERIAL:14,  FP:3.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PHI
+Tommy Tremble,  TIER:RARE,  SERIAL:24,  FP:3.5,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CAR
+Jared Goff,  TIER:CORE,  SERIAL:1092,  FP:16.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+
+Hand: 200,  contestTier: RARE,  TotalFP: 35.8,  stacked: false
+Tyler Bass,  TIER:RARE,  SERIAL:106,  FP:8.2,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:BUF
+James Robinson,  TIER:RARE,  SERIAL:99,  FP:3.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:JAX
+Tommy Tremble,  TIER:RARE,  SERIAL:82,  FP:3.5,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CAR
+Sam Darnold,  TIER:RARE,  SERIAL:82,  FP:3.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
+Davis Mills,  TIER:CORE,  SERIAL:776,  FP:17.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
+
+Hand: 201,  contestTier: RARE,  TotalFP: 33.8,  stacked: false
+Zane Gonzalez,  TIER:RARE,  SERIAL:22,  FP:8.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:CAR
+Chuba Hubbard,  TIER:RARE,  SERIAL:95,  FP:3.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CAR
+Cameron Brate,  TIER:RARE,  SERIAL:19,  FP:3.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:TB
+Auden Tate,  TIER:RARE,  SERIAL:76,  FP:2.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ATL
+Jared Goff,  TIER:CORE,  SERIAL:9402,  FP:16.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:DET
+
+Hand: 202,  contestTier: RARE,  TotalFP: 32.8,  stacked: false
+Zane Gonzalez,  TIER:RARE,  SERIAL:117,  FP:8.1,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:CAR
+Chuba Hubbard,  TIER:RARE,  SERIAL:161,  FP:3.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CAR
+Cameron Brate,  TIER:RARE,  SERIAL:105,  FP:3.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:TB
+Anthony Miller,  TIER:RARE,  SERIAL:3,  FP:1.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
+Jameis Winston,  TIER:CORE,  SERIAL:535,  FP:16.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+
+Hand: 203,  contestTier: RARE,  TotalFP: 31.6,  stacked: false
+Justin Simmons,  TIER:RARE,  SERIAL:39,  FP:8.0,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:DEN
+Kenneth Gainwell,  TIER:RARE,  SERIAL:98,  FP:3.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+O.J. Howard,  TIER:RARE,  SERIAL:9,  FP:3.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:BUF
+Jimmy Garoppolo,  TIER:RARE,  SERIAL:23,  FP:1.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
+Tyreek Hill,  TIER:CORE,  SERIAL:510,  FP:15.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:MIA
+
+Hand: 204,  contestTier: RARE,  TotalFP: 30.1,  stacked: false
+Tyrann Mathieu,  TIER:RARE,  SERIAL:7,  FP:7.8,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:NO
+Benny Snell Jr.,  TIER:RARE,  SERIAL:4,  FP:2.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PIT
+C.J. Uzomah,  TIER:RARE,  SERIAL:89,  FP:2.8,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:NYJ
+Richie James Jr.,  TIER:RARE,  SERIAL:15,  FP:0.5,  POS:WR,  OrigPOS:WR,  SS:false,  Team:SF
+Jameis Winston,  TIER:CORE,  SERIAL:686,  FP:16.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+
+Hand: 205,  contestTier: RARE,  TotalFP: 29.0,  stacked: false
+Brian Burns,  TIER:RARE,  SERIAL:34,  FP:7.5,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:CAR
+C.J. Uzomah,  TIER:RARE,  SERIAL:90,  FP:2.8,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:NYJ
+D'Ernest Johnson,  TIER:RARE,  SERIAL:24,  FP:2.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+Kylin Hill,  TIER:RARE,  SERIAL:19,  FP:0.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:GB
+Tyreek Hill,  TIER:CORE,  SERIAL:526,  FP:15.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:MIA
+
+Hand: 206,  contestTier: RARE,  TotalFP: 28.400000000000002,  stacked: false
+Montez Sweat,  TIER:RARE,  SERIAL:4,  FP:7.4,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:WAS
+D'Ernest Johnson,  TIER:RARE,  SERIAL:30,  FP:2.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+Blake Bell,  TIER:RARE,  SERIAL:37,  FP:2.3,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
+Kylin Hill,  TIER:RARE,  SERIAL:20,  FP:0.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:GB
+Tyreek Hill,  TIER:CORE,  SERIAL:702,  FP:15.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:MIA
+
+Hand: 207,  contestTier: RARE,  TotalFP: 28.0,  stacked: false
+Mike Hughes,  TIER:RARE,  SERIAL:29,  FP:7.4,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:DET
+Blake Bell,  TIER:RARE,  SERIAL:39,  FP:2.3,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
+JaMycal Hasty,  TIER:RARE,  SERIAL:11,  FP:1.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SF
+Richie James Jr.,  TIER:RARE,  SERIAL:23,  FP:0.5,  POS:WR,  OrigPOS:WR,  SS:false,  Team:SF
+Jameis Winston,  TIER:CORE,  SERIAL:797,  FP:16.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+
+Hand: 208,  contestTier: RARE,  TotalFP: 27.8,  stacked: false
+J.J. Watt,  TIER:RARE,  SERIAL:9,  FP:7.2,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:ARI
+Trey McBride,  TIER:RARE,  SERIAL:107,  FP:2.3,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ARI
+JaMycal Hasty,  TIER:RARE,  SERIAL:31,  FP:1.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SF
+Richie James Jr.,  TIER:RARE,  SERIAL:68,  FP:0.5,  POS:WR,  OrigPOS:WR,  SS:false,  Team:SF
+Jameis Winston,  TIER:CORE,  SERIAL:818,  FP:16.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+
+Hand: 209,  contestTier: RARE,  TotalFP: 26.299999999999997,  stacked: false
+Xavier Woods,  TIER:RARE,  SERIAL:23,  FP:7.2,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:CAR
+Amari Rodgers,  TIER:RARE,  SERIAL:39,  FP:1.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:GB
+Tevin Coleman,  TIER:RARE,  SERIAL:94,  FP:1.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYJ
+Case Keenum,  TIER:RARE,  SERIAL:4,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:BUF
+Terry McLaurin,  TIER:CORE,  SERIAL:292,  FP:15.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:WAS
+
+Hand: 210,  contestTier: RARE,  TotalFP: 25.8,  stacked: false
+Darnell Savage,  TIER:RARE,  SERIAL:38,  FP:7.2,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:GB
+Ross Dwelley,  TIER:RARE,  SERIAL:1,  FP:1.7,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:SF
+Eno Benjamin,  TIER:RARE,  SERIAL:4,  FP:1.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ARI
+Case Keenum,  TIER:RARE,  SERIAL:5,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:BUF
+Terry McLaurin,  TIER:CORE,  SERIAL:589,  FP:15.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:WAS
+
+Hand: 211,  contestTier: RARE,  TotalFP: 24.3,  stacked: false
+Xavier Woods,  TIER:RARE,  SERIAL:39,  FP:7.2,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:CAR
+Myles Gaskin,  TIER:RARE,  SERIAL:12,  FP:1.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+James O'Shaughnessy,  TIER:RARE,  SERIAL:2,  FP:0.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CHI
+Chase Daniel,  TIER:RARE,  SERIAL:15,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:LAC
+Keenan Allen,  TIER:CORE,  SERIAL:16,  FP:14.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAC
+
+Hand: 212,  contestTier: RARE,  TotalFP: 23.299999999999997,  stacked: false
+Jaire Alexander,  TIER:RARE,  SERIAL:1,  FP:7.1,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:GB
+Myles Gaskin,  TIER:RARE,  SERIAL:43,  FP:1.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Brandon Allen,  TIER:RARE,  SERIAL:26,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+Sterling Shepard,  TIER:RARE,  SERIAL:39,  FP:0.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Keenan Allen,  TIER:CORE,  SERIAL:456,  FP:14.7,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:LAC
+
+Hand: 213,  contestTier: CORE,  TotalFP: 37.199999999999996,  stacked: false
+Cameron Jordan,  TIER:RARE,  SERIAL:8,  FP:6.6,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:NO
+Myles Gaskin,  TIER:RARE,  SERIAL:93,  FP:1.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Case Keenum,  TIER:RARE,  SERIAL:36,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:BUF
+Keenan Allen,  TIER:CORE,  SERIAL:905,  FP:14.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAC
+Brandin Cooks,  TIER:CORE,  SERIAL:111,  FP:14.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:HOU
+
+Hand: 214,  contestTier: CORE,  TotalFP: 36.3,  stacked: false
+Stephon Gilmore,  TIER:RARE,  SERIAL:9,  FP:6.6,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:IND
+Myles Gaskin,  TIER:RARE,  SERIAL:95,  FP:1.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Brandon Allen,  TIER:RARE,  SERIAL:37,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+Michael Pittman Jr.,  TIER:CORE,  SERIAL:261,  FP:14.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:IND
+Tee Higgins,  TIER:CORE,  SERIAL:454,  FP:14.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+
+Hand: 215,  contestTier: CORE,  TotalFP: 35.8,  stacked: false
+Leonard Williams,  TIER:RARE,  SERIAL:2,  FP:6.5,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:NYG
+Trey Sermon,  TIER:RARE,  SERIAL:11,  FP:0.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SF
+Tyrod Taylor,  TIER:RARE,  SERIAL:161,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYG
+Michael Pittman Jr.,  TIER:CORE,  SERIAL:512,  FP:14.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:IND
+Tee Higgins,  TIER:CORE,  SERIAL:538,  FP:14.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+
+Hand: 216,  contestTier: CORE,  TotalFP: 59.1,  stacked: false
+Jeffery Simmons,  TIER:RARE,  SERIAL:1,  FP:6.4,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:TEN
+Darrynton Evans,  TIER:RARE,  SERIAL:21,  FP:0.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CHI
+Lamar Jackson,  TIER:CORE,  SERIAL:85,  FP:24.9,  POS:QB,  OrigPOS:QB,  SS:true,  Team:CHI
+Marquise Brown,  TIER:CORE,  SERIAL:227,  FP:13.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ARI
+Amon-Ra St. Brown,  TIER:CORE,  SERIAL:144,  FP:13.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DET
+
+Hand: 217,  contestTier: CORE,  TotalFP: 58.99999999999999,  stacked: false
+Za'Darius Smith,  TIER:RARE,  SERIAL:6,  FP:6.4,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:MIN
+Brandon Bolden,  TIER:RARE,  SERIAL:16,  FP:0.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+Lamar Jackson,  TIER:CORE,  SERIAL:379,  FP:24.9,  POS:QB,  OrigPOS:QB,  SS:true,  Team:CHI
+Marquise Brown,  TIER:CORE,  SERIAL:390,  FP:13.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ARI
+George Kittle,  TIER:CORE,  SERIAL:334,  FP:13.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:SF
+
+Hand: 218,  contestTier: CORE,  TotalFP: 58.699999999999996,  stacked: false
+Donte Jackson,  TIER:RARE,  SERIAL:12,  FP:6.4,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:CAR
+Ty Johnson,  TIER:RARE,  SERIAL:36,  FP:0.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYJ
+Lamar Jackson,  TIER:CORE,  SERIAL:398,  FP:24.9,  POS:QB,  OrigPOS:QB,  SS:true,  Team:CHI
+Amon-Ra St. Brown,  TIER:CORE,  SERIAL:409,  FP:13.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DET
+George Kittle,  TIER:CORE,  SERIAL:557,  FP:13.4,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:SF
+
+Hand: 219,  contestTier: CORE,  TotalFP: 58.3,  stacked: false
+Donte Jackson,  TIER:RARE,  SERIAL:27,  FP:6.4,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:CAR
+Ameer Abdullah,  TIER:RARE,  SERIAL:19,  FP:0.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+Lamar Jackson,  TIER:CORE,  SERIAL:439,  FP:24.9,  POS:QB,  OrigPOS:QB,  SS:true,  Team:CHI
+Amon-Ra St. Brown,  TIER:CORE,  SERIAL:802,  FP:13.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DET
+Mike Williams,  TIER:CORE,  SERIAL:95,  FP:13.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:LAC
+
+Hand: 220,  contestTier: CORE,  TotalFP: 58.0,  stacked: false
+Maxx Crosby,  TIER:RARE,  SERIAL:11,  FP:6.3,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:LV
+Ameer Abdullah,  TIER:RARE,  SERIAL:23,  FP:0.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+Lamar Jackson,  TIER:CORE,  SERIAL:456,  FP:24.9,  POS:QB,  OrigPOS:QB,  SS:true,  Team:CHI
+Mike Williams,  TIER:CORE,  SERIAL:292,  FP:13.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAC
+James Conner,  TIER:CORE,  SERIAL:329,  FP:13.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:ARI
+
+Hand: 221,  contestTier: CORE,  TotalFP: 57.5,  stacked: false
+Trevis Gipson,  TIER:RARE,  SERIAL:2,  FP:5.8,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:CHI
+Ameer Abdullah,  TIER:RARE,  SERIAL:33,  FP:0.3,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+Lamar Jackson,  TIER:CORE,  SERIAL:509,  FP:24.9,  POS:QB,  OrigPOS:QB,  SS:true,  Team:CHI
+Mike Williams,  TIER:CORE,  SERIAL:316,  FP:13.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAC
+James Conner,  TIER:CORE,  SERIAL:530,  FP:13.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:ARI
+
+Hand: 222,  contestTier: CORE,  TotalFP: 67.9,  stacked: false
+Trevis Gipson,  TIER:RARE,  SERIAL:9,  FP:5.8,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:CHI
+Josh Allen,  TIER:CORE,  SERIAL:609,  FP:22.6,  POS:QB,  OrigPOS:QB,  SS:true,  Team:JAX
+Mike Williams,  TIER:CORE,  SERIAL:397,  FP:13.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAC
+Nick Chubb,  TIER:CORE,  SERIAL:99,  FP:13.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+Tyler Lockett,  TIER:CORE,  SERIAL:314,  FP:13.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:SEA
+
+Hand: 223,  contestTier: CORE,  TotalFP: 67.9,  stacked: false
+Kenny Clark,  TIER:RARE,  SERIAL:23,  FP:5.8,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:GB
+Josh Allen,  TIER:CORE,  SERIAL:767,  FP:22.6,  POS:QB,  OrigPOS:QB,  SS:true,  Team:JAX
+Mike Williams,  TIER:CORE,  SERIAL:503,  FP:13.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAC
+Nick Chubb,  TIER:CORE,  SERIAL:277,  FP:13.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+Tyler Lockett,  TIER:CORE,  SERIAL:370,  FP:13.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:SEA
+
+Hand: 224,  contestTier: CORE,  TotalFP: 66.4,  stacked: false
+Robert Quinn,  TIER:RARE,  SERIAL:100,  FP:5.6,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:CHI
+Josh Allen,  TIER:CORE,  SERIAL:901,  FP:22.6,  POS:QB,  OrigPOS:QB,  SS:true,  Team:JAX
+Russell Gage,  TIER:CORE,  SERIAL:377,  FP:13.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Tyler Lockett,  TIER:CORE,  SERIAL:550,  FP:13.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:SEA
+Javonte Williams,  TIER:CORE,  SERIAL:66,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DEN
+
+Hand: 225,  contestTier: CORE,  TotalFP: 65.0,  stacked: false
+Malcolm Butler,  TIER:RARE,  SERIAL:13,  FP:4.5,  POS:FLEX,  OrigPOS:CB,  SS:false,  Team:NE
+Patrick Mahomes,  TIER:CORE,  SERIAL:23,  FP:22.4,  POS:QB,  OrigPOS:QB,  SS:true,  Team:KC
+Russell Gage,  TIER:CORE,  SERIAL:380,  FP:13.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Rashod Bateman,  TIER:CORE,  SERIAL:3,  FP:13.0,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BAL
+David Montgomery,  TIER:CORE,  SERIAL:245,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CHI
+
+Hand: 226,  contestTier: CORE,  TotalFP: 64.4,  stacked: false
+Derrick Brown,  TIER:RARE,  SERIAL:7,  FP:3.9,  POS:FLEX,  OrigPOS:DT,  SS:false,  Team:CAR
+Patrick Mahomes,  TIER:CORE,  SERIAL:558,  FP:22.4,  POS:QB,  OrigPOS:QB,  SS:true,  Team:KC
+Russell Gage,  TIER:CORE,  SERIAL:544,  FP:13.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Rashod Bateman,  TIER:CORE,  SERIAL:758,  FP:13.0,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BAL
+David Montgomery,  TIER:CORE,  SERIAL:723,  FP:12.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CHI
+
+Hand: 227,  contestTier: CORE,  TotalFP: 62.2,  stacked: false
+Yannick Ngakoue,  TIER:RARE,  SERIAL:9,  FP:3.8,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:IND
+Justin Herbert,  TIER:CORE,  SERIAL:967,  FP:20.8,  POS:QB,  OrigPOS:QB,  SS:true,  Team:LAC
+Russell Gage,  TIER:CORE,  SERIAL:591,  FP:13.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Drake London,  TIER:CORE,  SERIAL:1816,  FP:12.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:ATL
+J.K. Dobbins,  TIER:CORE,  SERIAL:359,  FP:11.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
+
+Hand: 228,  contestTier: CORE,  TotalFP: 54.5,  stacked: true
+Lamarcus Joyner,  TIER:RARE,  SERIAL:29,  FP:3.1,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:NYJ
+Chris Olave,  TIER:CORE,  SERIAL:1367,  FP:10.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NO
+Jameis Winston,  TIER:CORE,  SERIAL:1441,  FP:16.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+Drake London,  TIER:CORE,  SERIAL:2342,  FP:12.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:ATL
+J.K. Dobbins,  TIER:CORE,  SERIAL:456,  FP:11.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
+
+Hand: 229,  contestTier: CORE,  TotalFP: 53.699999999999996,  stacked: true
+Brandon Graham,  TIER:RARE,  SERIAL:40,  FP:3.1,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:PHI
+Jakobi Meyers,  TIER:CORE,  SERIAL:176,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NE
+Mac Jones,  TIER:CORE,  SERIAL:201,  FP:15.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NE
+Gabriel Davis,  TIER:CORE,  SERIAL:197,  FP:12.7,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BUF
+J.K. Dobbins,  TIER:CORE,  SERIAL:464,  FP:11.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
+
+Hand: 230,  contestTier: CORE,  TotalFP: 53.50000000000001,  stacked: true
+Chase Winovich,  TIER:RARE,  SERIAL:16,  FP:2.9,  POS:FLEX,  OrigPOS:DE,  SS:false,  Team:CLE
+Jakobi Meyers,  TIER:CORE,  SERIAL:246,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NE
+Mac Jones,  TIER:CORE,  SERIAL:306,  FP:15.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NE
+Gabriel Davis,  TIER:CORE,  SERIAL:420,  FP:12.7,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BUF
+J.K. Dobbins,  TIER:CORE,  SERIAL:983,  FP:11.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
+
+Hand: 231,  contestTier: CORE,  TotalFP: 67.1,  stacked: true
+Jakobi Meyers,  TIER:CORE,  SERIAL:273,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NE
+Denzel Perryman,  TIER:CORE,  SERIAL:4,  FP:16.6,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:LV
+Mac Jones,  TIER:CORE,  SERIAL:319,  FP:15.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NE
+Gabriel Davis,  TIER:CORE,  SERIAL:727,  FP:12.7,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BUF
+Cordarrelle Patterson,  TIER:CORE,  SERIAL:307,  FP:11.5,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ATL
+
+Hand: 232,  contestTier: CORE,  TotalFP: 63.0,  stacked: true
+Jakobi Meyers,  TIER:CORE,  SERIAL:274,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NE
+Mac Jones,  TIER:CORE,  SERIAL:454,  FP:15.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NE
+Gabriel Davis,  TIER:CORE,  SERIAL:16699,  FP:12.7,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BUF
+Bobby Wagner,  TIER:CORE,  SERIAL:99,  FP:12.6,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:LAR
+Josh Jacobs,  TIER:CORE,  SERIAL:577,  FP:11.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LV
+
+Hand: 233,  contestTier: CORE,  TotalFP: 62.300000000000004,  stacked: true
+Jakobi Meyers,  TIER:CORE,  SERIAL:947,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NE
+Mac Jones,  TIER:CORE,  SERIAL:612,  FP:15.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NE
+Bobby Wagner,  TIER:CORE,  SERIAL:105,  FP:12.6,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:LAR
+Allen Robinson II,  TIER:CORE,  SERIAL:316,  FP:12.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:LAR
+Cam Akers,  TIER:CORE,  SERIAL:392,  FP:11.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:LAR
+
+Hand: 234,  contestTier: CORE,  TotalFP: 71.60000000000001,  stacked: false
+Cooper Kupp,  TIER:CORE,  SERIAL:344,  FP:20.6,  POS:WR,  OrigPOS:WR,  SS:true,  Team:LAR
+Mac Jones,  TIER:CORE,  SERIAL:906,  FP:15.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NE
+Jordyn Brooks,  TIER:CORE,  SERIAL:51,  FP:12.5,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:SEA
+Kyle Pitts,  TIER:CORE,  SERIAL:26,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Jerry Jeudy,  TIER:CORE,  SERIAL:417,  FP:10.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DEN
+
+Hand: 235,  contestTier: CORE,  TotalFP: 69.4,  stacked: false
+Cooper Kupp,  TIER:CORE,  SERIAL:713,  FP:20.6,  POS:WR,  OrigPOS:WR,  SS:true,  Team:LAR
+Marcus Mariota,  TIER:CORE,  SERIAL:225,  FP:14.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+C.J. Mosley,  TIER:CORE,  SERIAL:18,  FP:12.4,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:NYJ
+Kyle Pitts,  TIER:CORE,  SERIAL:243,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Dallas Goedert,  TIER:CORE,  SERIAL:6,  FP:10.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+
+Hand: 236,  contestTier: CORE,  TotalFP: 66.1,  stacked: true
+Aaron Rodgers,  TIER:CORE,  SERIAL:62,  FP:20.2,  POS:QB,  OrigPOS:QB,  SS:true,  Team:GB
+Lavonte David,  TIER:CORE,  SERIAL:56,  FP:12.2,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:TB
+Kyle Pitts,  TIER:CORE,  SERIAL:350,  FP:12.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
+Allen Lazard,  TIER:CORE,  SERIAL:467,  FP:11.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:GB
+Dallas Goedert,  TIER:CORE,  SERIAL:111,  FP:10.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+
+Hand: 237,  contestTier: CORE,  TotalFP: 62.8,  stacked: true
+Aaron Rodgers,  TIER:CORE,  SERIAL:841,  FP:20.2,  POS:QB,  OrigPOS:QB,  SS:true,  Team:GB
+Lavonte David,  TIER:CORE,  SERIAL:169,  FP:12.2,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:TB
+Sammy Watkins,  TIER:CORE,  SERIAL:154,  FP:8.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:GB
+Elijah Moore,  TIER:CORE,  SERIAL:15,  FP:11.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYJ
+Clyde Edwards-Helaire,  TIER:CORE,  SERIAL:443,  FP:10.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:KC
+
+Hand: 238,  contestTier: CORE,  TotalFP: 62.099999999999994,  stacked: true
+Aaron Rodgers,  TIER:CORE,  SERIAL:898,  FP:20.2,  POS:QB,  OrigPOS:QB,  SS:true,  Team:GB
+Sammy Watkins,  TIER:CORE,  SERIAL:681,  FP:8.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:GB
+Elijah Moore,  TIER:CORE,  SERIAL:212,  FP:11.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYJ
+Adam Thielen,  TIER:CORE,  SERIAL:230,  FP:11.9,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:MIN
+Antonio Gibson,  TIER:CORE,  SERIAL:24,  FP:9.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:WAS
+
+Hand: 239,  contestTier: CORE,  TotalFP: 67.5,  stacked: false
+Justin Jefferson,  TIER:CORE,  SERIAL:185,  FP:19.7,  POS:WR,  OrigPOS:WR,  SS:true,  Team:MIN
+Marcus Mariota,  TIER:CORE,  SERIAL:341,  FP:14.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+Michael Thomas,  TIER:CORE,  SERIAL:16,  FP:12.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Adam Thielen,  TIER:CORE,  SERIAL:511,  FP:11.9,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:MIN
+Antonio Gibson,  TIER:CORE,  SERIAL:128,  FP:9.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:WAS
+
+Hand: 240,  contestTier: CORE,  TotalFP: 69.1,  stacked: false
+Christian McCaffrey,  TIER:CORE,  SERIAL:293,  FP:19.3,  POS:RB,  OrigPOS:RB,  SS:true,  Team:CAR
+Marcus Mariota,  TIER:CORE,  SERIAL:471,  FP:14.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+Michael Thomas,  TIER:CORE,  SERIAL:269,  FP:12.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CIN
+Elijah Moore,  TIER:CORE,  SERIAL:607,  FP:11.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYJ
+Jaylen Waddle,  TIER:CORE,  SERIAL:18,  FP:11.8,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:MIA
+
+Hand: 241,  contestTier: CORE,  TotalFP: 69.1,  stacked: false
+Christian McCaffrey,  TIER:CORE,  SERIAL:547,  FP:19.3,  POS:RB,  OrigPOS:RB,  SS:true,  Team:CAR
+Marcus Mariota,  TIER:CORE,  SERIAL:535,  FP:14.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+Michael Thomas,  TIER:CORE,  SERIAL:977,  FP:12.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CIN
+Elijah Moore,  TIER:CORE,  SERIAL:767,  FP:11.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYJ
+Jaylen Waddle,  TIER:CORE,  SERIAL:55,  FP:11.8,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:MIA
+
+Hand: 242,  contestTier: CORE,  TotalFP: 68.69999999999999,  stacked: false
+Christian McCaffrey,  TIER:CORE,  SERIAL:827,  FP:19.3,  POS:RB,  OrigPOS:RB,  SS:true,  Team:CAR
+Marcus Mariota,  TIER:CORE,  SERIAL:580,  FP:14.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+Amari Cooper,  TIER:CORE,  SERIAL:518,  FP:11.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Hunter Renfrow,  TIER:CORE,  SERIAL:551,  FP:11.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:LV
+Jaylen Waddle,  TIER:CORE,  SERIAL:803,  FP:11.8,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:MIA
+
+Hand: 243,  contestTier: CORE,  TotalFP: 66.1,  stacked: false
+Jonathan Taylor,  TIER:CORE,  SERIAL:86,  FP:17.3,  POS:RB,  OrigPOS:RB,  SS:true,  Team:IND
+Marcus Mariota,  TIER:CORE,  SERIAL:826,  FP:14.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+Marquez Valdes-Scantling,  TIER:CORE,  SERIAL:526,  FP:11.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:KC
+Christian Kirk,  TIER:CORE,  SERIAL:49,  FP:11.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:JAX
+Kenny Golladay,  TIER:CORE,  SERIAL:298,  FP:11.5,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:NYG
+
+Hand: 244,  contestTier: CORE,  TotalFP: 65.6,  stacked: false
+Jonathan Taylor,  TIER:CORE,  SERIAL:439,  FP:17.3,  POS:RB,  OrigPOS:RB,  SS:true,  Team:IND
+Marcus Mariota,  TIER:CORE,  SERIAL:939,  FP:14.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+Christian Kirk,  TIER:CORE,  SERIAL:439,  FP:11.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Kenny Golladay,  TIER:CORE,  SERIAL:400,  FP:11.5,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYG
+Corey Davis,  TIER:CORE,  SERIAL:245,  FP:11.2,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:NYJ
+
+Hand: 245,  contestTier: CORE,  TotalFP: 54.2,  stacked: true
+Robbie Anderson,  TIER:CORE,  SERIAL:112,  FP:8.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CAR
+Baker Mayfield,  TIER:CORE,  SERIAL:254,  FP:12.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
+Christian Kirk,  TIER:CORE,  SERIAL:457,  FP:11.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:JAX
+Kenny Golladay,  TIER:CORE,  SERIAL:568,  FP:11.5,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:NYG
+Kareem Hunt,  TIER:CORE,  SERIAL:342,  FP:9.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CLE
+
+Hand: 246,  contestTier: CORE,  TotalFP: 53.89999999999999,  stacked: true
+Robbie Anderson,  TIER:CORE,  SERIAL:121,  FP:8.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CAR
+Baker Mayfield,  TIER:CORE,  SERIAL:396,  FP:12.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
+Christian Kirk,  TIER:CORE,  SERIAL:660,  FP:11.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:JAX
+Darnell Mooney,  TIER:CORE,  SERIAL:408,  FP:11.2,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:CHI
+Antonio Gibson,  TIER:CORE,  SERIAL:445,  FP:9.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:WAS
+
+Hand: 247,  contestTier: CORE,  TotalFP: 53.699999999999996,  stacked: true
+Robbie Anderson,  TIER:CORE,  SERIAL:270,  FP:8.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CAR
+Baker Mayfield,  TIER:CORE,  SERIAL:627,  FP:12.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
+Christian Kirk,  TIER:CORE,  SERIAL:865,  FP:11.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:JAX
+Darnell Mooney,  TIER:CORE,  SERIAL:12404,  FP:11.2,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:CHI
+Miles Sanders,  TIER:CORE,  SERIAL:59,  FP:9.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+
+Hand: 248,  contestTier: CORE,  TotalFP: 61.2,  stacked: false
+CeeDee Lamb,  TIER:CORE,  SERIAL:893,  FP:17.2,  POS:WR,  OrigPOS:WR,  SS:true,  Team:DAL
+Baker Mayfield,  TIER:CORE,  SERIAL:733,  FP:12.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
+Darren Waller,  TIER:CORE,  SERIAL:366,  FP:11.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LV
+Diontae Johnson,  TIER:CORE,  SERIAL:391,  FP:11.0,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:PIT
+Miles Sanders,  TIER:CORE,  SERIAL:225,  FP:9.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+
+Hand: 249,  contestTier: CORE,  TotalFP: 60.9,  stacked: false
+Ja'Marr Chase,  TIER:CORE,  SERIAL:55,  FP:17.0,  POS:WR,  OrigPOS:WR,  SS:true,  Team:CIN
+Baker Mayfield,  TIER:CORE,  SERIAL:885,  FP:12.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
+Diontae Johnson,  TIER:CORE,  SERIAL:503,  FP:11.0,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:PIT
+Marvin Jones Jr.,  TIER:CORE,  SERIAL:136,  FP:10.9,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:JAX
+Miles Sanders,  TIER:CORE,  SERIAL:369,  FP:9.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
+
+Hand: 250,  contestTier: CORE,  TotalFP: 61.8,  stacked: false
+Najee Harris,  TIER:CORE,  SERIAL:198,  FP:17.0,  POS:RB,  OrigPOS:RB,  SS:true,  Team:PIT
+Kyle Pitts,  TIER:CORE,  SERIAL:385,  FP:12.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+Marvin Jones Jr.,  TIER:CORE,  SERIAL:150,  FP:10.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Devin Duvernay,  TIER:CORE,  SERIAL:258,  FP:10.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BAL
+Garrett Wilson,  TIER:CORE,  SERIAL:101,  FP:10.8,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:NYJ
+
+Hand: 251,  contestTier: CORE,  TotalFP: 59.099999999999994,  stacked: false
+Najee Harris,  TIER:CORE,  SERIAL:454,  FP:17.0,  POS:RB,  OrigPOS:RB,  SS:true,  Team:PIT
+Marvin Jones Jr.,  TIER:CORE,  SERIAL:321,  FP:10.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
+Devin Duvernay,  TIER:CORE,  SERIAL:398,  FP:10.9,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BAL
+Melvin Gordon III,  TIER:CORE,  SERIAL:336,  FP:10.8,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:DEN
+Evan McPherson,  TIER:CORE,  SERIAL:26,  FP:9.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+
+Hand: 252,  contestTier: CORE,  TotalFP: 58.900000000000006,  stacked: false
+Najee Harris,  TIER:CORE,  SERIAL:568,  FP:17.0,  POS:RB,  OrigPOS:RB,  SS:true,  Team:PIT
+Melvin Gordon III,  TIER:CORE,  SERIAL:369,  FP:10.8,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:DEN
+Chris Olave,  TIER:CORE,  SERIAL:1732,  FP:10.8,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NO
+Garrett Wilson,  TIER:CORE,  SERIAL:2175,  FP:10.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYJ
+Evan McPherson,  TIER:CORE,  SERIAL:600,  FP:9.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
+
+Hand: 253,  contestTier: CORE,  TotalFP: 55.9,  stacked: false
+Najee Harris,  TIER:CORE,  SERIAL:573,  FP:17.0,  POS:RB,  OrigPOS:RB,  SS:true,  Team:PIT
+Melvin Gordon III,  TIER:CORE,  SERIAL:386,  FP:10.8,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:DEN
+Juju Smith-Schuster,  TIER:CORE,  SERIAL:83,  FP:10.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:KC
+Tyler Boyd,  TIER:CORE,  SERIAL:1,  FP:10.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Drew Lock,  TIER:CORE,  SERIAL:453,  FP:6.8,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SEA
+
+Hand: 254,  contestTier: CORE,  TotalFP: 54.599999999999994,  stacked: false
+Davante Adams,  TIER:CORE,  SERIAL:823,  FP:16.9,  POS:WR,  OrigPOS:WR,  SS:true,  Team:LV
+Melvin Gordon III,  TIER:CORE,  SERIAL:983,  FP:10.8,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:DEN
+Juju Smith-Schuster,  TIER:CORE,  SERIAL:281,  FP:10.7,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:KC
+Tony Pollard,  TIER:CORE,  SERIAL:122,  FP:9.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DAL
+Drew Lock,  TIER:CORE,  SERIAL:477,  FP:6.8,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SEA
+
+Hand: 255,  contestTier: CORE,  TotalFP: 54.39999999999999,  stacked: false
+Davante Adams,  TIER:CORE,  SERIAL:841,  FP:16.9,  POS:WR,  OrigPOS:WR,  SS:true,  Team:LV
+Juju Smith-Schuster,  TIER:CORE,  SERIAL:398,  FP:10.7,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:KC
+Tyler Boyd,  TIER:CORE,  SERIAL:84,  FP:10.6,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:CIN
+Tony Pollard,  TIER:CORE,  SERIAL:226,  FP:9.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DAL
+Drew Lock,  TIER:CORE,  SERIAL:626,  FP:6.8,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SEA
+
+Hand: 256,  contestTier: CORE,  TotalFP: 55.3,  stacked: false
+Dalvin Cook,  TIER:CORE,  SERIAL:171,  FP:16.6,  POS:RB,  OrigPOS:RB,  SS:true,  Team:MIN
+Juju Smith-Schuster,  TIER:CORE,  SERIAL:532,  FP:10.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:KC
+Chris Godwin,  TIER:CORE,  SERIAL:329,  FP:10.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:TB
+Tyler Boyd,  TIER:CORE,  SERIAL:518,  FP:10.6,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:CIN
+Drew Lock,  TIER:CORE,  SERIAL:630,  FP:6.8,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SEA
+
+Hand: 257,  contestTier: CORE,  TotalFP: 54.6,  stacked: false
+Dalvin Cook,  TIER:CORE,  SERIAL:729,  FP:16.6,  POS:RB,  OrigPOS:RB,  SS:true,  Team:MIN
+Chris Godwin,  TIER:CORE,  SERIAL:397,  FP:10.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Tyler Boyd,  TIER:CORE,  SERIAL:584,  FP:10.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Courtland Sutton,  TIER:CORE,  SERIAL:40,  FP:10.5,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:DEN
+Kenny Pickett,  TIER:CORE,  SERIAL:1746,  FP:6.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:PIT
+
+Hand: 258,  contestTier: CORE,  TotalFP: 54.0,  stacked: false
+Austin Ekeler,  TIER:CORE,  SERIAL:703,  FP:16.2,  POS:RB,  OrigPOS:RB,  SS:true,  Team:LAC
+Chris Godwin,  TIER:CORE,  SERIAL:477,  FP:10.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TB
+Tyler Boyd,  TIER:CORE,  SERIAL:654,  FP:10.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CIN
+Nico Collins,  TIER:CORE,  SERIAL:97,  FP:10.5,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:HOU
+Desmond Ridder,  TIER:CORE,  SERIAL:329,  FP:6.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+
+Hand: 259,  contestTier: CORE,  TotalFP: 51.5,  stacked: false
+Deebo Samuel,  TIER:CORE,  SERIAL:38,  FP:14.9,  POS:WR,  OrigPOS:WR,  SS:true,  Team:SF
+Chris Godwin,  TIER:CORE,  SERIAL:594,  FP:10.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:TB
+Nico Collins,  TIER:CORE,  SERIAL:328,  FP:10.5,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:HOU
+Tony Pollard,  TIER:CORE,  SERIAL:272,  FP:9.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DAL
+Evan Engram,  TIER:CORE,  SERIAL:472,  FP:6.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:JAX
+
+Hand: 260,  contestTier: CORE,  TotalFP: 51.5,  stacked: false
+Deebo Samuel,  TIER:CORE,  SERIAL:157,  FP:14.9,  POS:WR,  OrigPOS:WR,  SS:true,  Team:SF
+Chris Godwin,  TIER:CORE,  SERIAL:952,  FP:10.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:TB
+Nico Collins,  TIER:CORE,  SERIAL:425,  FP:10.5,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:HOU
+Tony Pollard,  TIER:CORE,  SERIAL:447,  FP:9.4,  POS:RB,  OrigPOS:RB,  SS:false,  Team:DAL
+Desmond Ridder,  TIER:CORE,  SERIAL:1596,  FP:6.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ATL
+
+Hand: 261,  contestTier: CORE,  TotalFP: 49.0,  stacked: false
+Deebo Samuel,  TIER:CORE,  SERIAL:163,  FP:14.9,  POS:WR,  OrigPOS:WR,  SS:true,  Team:SF
+Courtland Sutton,  TIER:CORE,  SERIAL:506,  FP:10.5,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DEN
+Jerry Jeudy,  TIER:CORE,  SERIAL:128,  FP:10.4,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:DEN
+Damien Harris,  TIER:CORE,  SERIAL:111,  FP:9.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+Taysom Hill,  TIER:CORE,  SERIAL:364,  FP:4.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+
+Hand: 262,  contestTier: CORE,  TotalFP: 48.60000000000001,  stacked: false
+Deebo Samuel,  TIER:CORE,  SERIAL:516,  FP:14.9,  POS:WR,  OrigPOS:WR,  SS:true,  Team:SF
+Dalton Schultz,  TIER:CORE,  SERIAL:568,  FP:10.3,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:DAL
+Budda Baker,  TIER:CORE,  SERIAL:106,  FP:10.2,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:ARI
+Damien Harris,  TIER:CORE,  SERIAL:321,  FP:9.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+Taysom Hill,  TIER:CORE,  SERIAL:524,  FP:4.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NO
+
+Hand: 263,  contestTier: CORE,  TotalFP: 43.099999999999994,  stacked: false
+Robert Woods,  TIER:CORE,  SERIAL:121,  FP:10.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
+Demario Davis,  TIER:CORE,  SERIAL:165,  FP:10.2,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:NO
+Dallas Goedert,  TIER:CORE,  SERIAL:315,  FP:10.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:PHI
+Damien Harris,  TIER:CORE,  SERIAL:574,  FP:9.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NE
+Sam Darnold,  TIER:CORE,  SERIAL:217,  FP:3.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
+
+Hand: 264,  contestTier: CORE,  TotalFP: 40.9,  stacked: false
+Budda Baker,  TIER:CORE,  SERIAL:174,  FP:10.2,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:ARI
+Dallas Goedert,  TIER:CORE,  SERIAL:424,  FP:10.2,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:PHI
+Kadarius Toney,  TIER:CORE,  SERIAL:472,  FP:10.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Chase Edmonds,  TIER:CORE,  SERIAL:119,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Jimmy Garoppolo,  TIER:CORE,  SERIAL:66,  FP:1.6,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
+
+Hand: 265,  contestTier: CORE,  TotalFP: 39.4,  stacked: false
+Budda Baker,  TIER:CORE,  SERIAL:176,  FP:10.2,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:ARI
+Kadarius Toney,  TIER:CORE,  SERIAL:533,  FP:10.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Brandon Aiyuk,  TIER:CORE,  SERIAL:552,  FP:9.8,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:SF
+Greg Zuerlein,  TIER:CORE,  SERIAL:430,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYJ
+Malik Willis,  TIER:CORE,  SERIAL:1958,  FP:0.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
+
+Hand: 266,  contestTier: CORE,  TotalFP: 38.9,  stacked: false
+Demario Davis,  TIER:CORE,  SERIAL:197,  FP:10.2,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:NO
+Kadarius Toney,  TIER:CORE,  SERIAL:709,  FP:10.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Wan'Dale Robinson,  TIER:CORE,  SERIAL:1717,  FP:9.4,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYG
+Chase Edmonds,  TIER:CORE,  SERIAL:810,  FP:8.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
+Blaine Gabbert,  TIER:CORE,  SERIAL:52,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TB
+
+Hand: 267,  contestTier: CORE,  TotalFP: 37.9,  stacked: false
+Christian Kirksey,  TIER:CORE,  SERIAL:131,  FP:10.1,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:HOU
+Wan'Dale Robinson,  TIER:CORE,  SERIAL:1942,  FP:9.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Donovan Peoples-Jones,  TIER:CORE,  SERIAL:134,  FP:9.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:CLE
+Rashaad Penny,  TIER:CORE,  SERIAL:78,  FP:8.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SEA
+Chad Henne,  TIER:CORE,  SERIAL:94,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:KC
+
+Hand: 268,  contestTier: CORE,  TotalFP: 37.5,  stacked: false
+Kamu Grugier-Hill,  TIER:CORE,  SERIAL:51,  FP:9.9,  POS:FLEX,  OrigPOS:LB,  SS:false,  Team:HOU
+Donovan Peoples-Jones,  TIER:CORE,  SERIAL:219,  FP:9.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Michael Gallup,  TIER:CORE,  SERIAL:162,  FP:9.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DAL
+Rashaad Penny,  TIER:CORE,  SERIAL:216,  FP:8.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SEA
+Case Keenum,  TIER:CORE,  SERIAL:144,  FP:0.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:BUF
+
+Hand: 269,  contestTier: CORE,  TotalFP: 37.3,  stacked: false
+Johnathan Abram,  TIER:CORE,  SERIAL:182,  FP:9.8,  POS:FLEX,  OrigPOS:S,  SS:false,  Team:LV
+Donovan Peoples-Jones,  TIER:CORE,  SERIAL:329,  FP:9.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Michael Gallup,  TIER:CORE,  SERIAL:291,  FP:9.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DAL
+Rashaad Penny,  TIER:CORE,  SERIAL:257,  FP:8.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SEA
+Brian Hoyer,  TIER:CORE,  SERIAL:95,  FP:0.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NE
+
+Hand: 270,  contestTier: CORE,  TotalFP: 36.699999999999996,  stacked: false
+Donovan Peoples-Jones,  TIER:CORE,  SERIAL:501,  FP:9.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
+Matt Prater,  TIER:CORE,  SERIAL:371,  FP:9.2,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:ARI
+Michael Gallup,  TIER:CORE,  SERIAL:376,  FP:9.2,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DAL
+Rashaad Penny,  TIER:CORE,  SERIAL:263,  FP:8.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SEA
+Taylor Heinicke,  TIER:CORE,  SERIAL:104,  FP:0.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:WAS
+
+Hand: 271,  contestTier: CORE,  TotalFP: 36.5,  stacked: false
+Michael Gallup,  TIER:CORE,  SERIAL:445,  FP:9.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DAL
+Matt Prater,  TIER:CORE,  SERIAL:591,  FP:9.2,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:ARI
+David Njoku,  TIER:CORE,  SERIAL:35,  FP:9.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:CLE
+Rashaad Penny,  TIER:CORE,  SERIAL:524,  FP:8.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SEA
+Brian Hoyer,  TIER:CORE,  SERIAL:176,  FP:0.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NE
+
