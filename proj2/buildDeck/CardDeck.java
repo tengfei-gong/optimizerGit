@@ -103,6 +103,7 @@ public class CardDeck {
         int len = nameArr.length;
         //Random random = new Random(42);
         for (int i = 0; i < len; i++) {
+
             int sn = Integer.parseInt(serialArr[i]);
             Tier tierInput = tierMap(tierArr[i]);
             Position posInput = posMap(posArr[i]);

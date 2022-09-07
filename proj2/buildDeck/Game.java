@@ -167,6 +167,10 @@ public class Game {
         return false;
     }
 
+    public int getTierCount(int tierNum) {
+        return deck.getTierCount(tierNum);
+    }
+
 
 
     //TODO check if game can be played at the current tier.
@@ -1098,6 +1102,7 @@ public class Game {
 
         int wrInd = 0;
         int qbInd = 0;
+        int wrteInd = 0;
         ArrayList<Position> positionArr = getPosition(hand.size() - 1); //Current deck positions
         for (int i = 0; i < 5; i++) {
             if (positionArr.get(i).equals(Position.WR)) {
@@ -1106,9 +1111,25 @@ public class Game {
             if (positionArr.get(i).equals(Position.QB)) {
                 qbInd = i;
             }
+            if (positionArr.get(i).equals(Position.WRTE)) {
+                wrteInd = i;
+            }
+
         }
 
+        //Check if current hand is already stacked
+        if (hand.get(hand.size()-1).get(wrInd).getTeam().equals(hand.get(hand.size()-1).get(qbInd).getTeam())
+        || hand.get(hand.size()-1).get(wrteInd).getTeam().equals(hand.get(hand.size()-1).get(qbInd).getTeam())) {
+            stacked.set(stacked.size()-1, true);
+            //System.out.println(hand.size()-1);
+            //System.out.println(hand.get(hand.size()-1).get(wrInd).getName());
+            return;
+        }
+
+
+
         Tier wrTier = hand.get(hand.size()-1).get(wrInd).getTier();
+        Tier wrteTier = hand.get(hand.size()-1).get(wrteInd).getTier();
         String qbTeam = hand.get(hand.size()-1).get(qbInd).getTeam();
 
         for (int i = 0; i < deck.getSize(); i++) {
@@ -1117,9 +1138,40 @@ public class Game {
             if (card.getPos().equals(Position.WR)
                     && (card.getTeam().equals(qbTeam))
                     && (card.getTier().compareTo(wrTier)== 0)) {// Has to be same tier or above
+
+                if (card.getSuperstar()) {
+                    if (!superstarDeck.get(superstarDeck.size() - 1)
+                    && card.getTier().compareTo(tierMap(currTier))>=0) {
+                        superstarDeck.set(superstarDeck.size() - 1, true);
+                    } else {
+                        tmpDeck.addCard(card);
+                        continue;
+                    }
+                }
+
+
                 Card oldWR = hand.get(hand.size() - 1).get(wrInd); //Save original WR
                 tmpDeck.addCard(oldWR);
                 hand.get(hand.size() - 1).set(wrInd, card);
+                stacked.set(stacked.size()-1, true);
+                break;
+            } else if (card.getPos().equals(Position.WRTE)
+                    && (card.getTeam().equals(qbTeam))
+                    && (card.getTier().compareTo(wrteTier)== 0)) {// Has to be same tier or above
+
+                if (card.getSuperstar()) {
+                    if (!superstarDeck.get(superstarDeck.size() - 1)
+                            && card.getTier().compareTo(tierMap(currTier))>=0) {
+                        superstarDeck.set(superstarDeck.size() - 1, true);
+                    } else {
+                        tmpDeck.addCard(card);
+                        continue;
+                    }
+                }
+
+                Card oldWRTE = hand.get(hand.size() - 1).get(wrteInd); //Save original WR
+                tmpDeck.addCard(oldWRTE);
+                hand.get(hand.size() - 1).set(wrteInd, card);
                 stacked.set(stacked.size()-1, true);
                 break;
             } else {
@@ -1179,6 +1231,36 @@ public class Game {
         readLineup = readLineup + add + "\n" + "\n";
 
         Utils.writeContents(lineup, readLineup);
+    }
+
+
+    public void writeCurrDeck() {
+
+        shuffleTwoDecks();
+        File remainingDeck = new File("./Lineup/deck");
+        if (!remainingDeck.exists()){
+            //remainingDeck.createNewFile();
+            Utils.writeContents(remainingDeck, "");
+        }
+
+
+        String writeDeck = "RM:" + getTierCount(0) + "\n" + "Legendary:" + getTierCount(1) + "\n"
+                + "Elite:" + getTierCount(2) + "\n" + "RARE:" + getTierCount(3) + "\n"
+                + "CORE:" + getTierCount(4) + "\n";
+
+        for (int ind = 0; ind < deck.getSize(); ind++) {
+
+            Card card = deck.removeCard();
+            tmpDeck.addCard(card);
+
+            String add = card.getName() + ",  TIER:" + card.getTier() + ",  SERIAL:" + card.getSerial() + ",  FP:" + card.getFP() + ",  OrigPOS:" + card.getOrigPos() + ",  SS:" + ",  Team:" + card.getTeam();
+            writeDeck = writeDeck + add + "\n";
+        }
+        shuffleTwoDecks();
+
+        Utils.writeContents(remainingDeck, writeDeck);
+
+
     }
 
 }
