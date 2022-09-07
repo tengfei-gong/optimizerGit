@@ -12,9 +12,9 @@ public class Main {
         while(!game.stop()) {
             game.play();
             game.updateLineUp();
+            game.updateCurrDeck();
 
 
-            game.writeCurrDeck();
 
         }
 

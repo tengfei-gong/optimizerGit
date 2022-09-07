@@ -70,16 +70,16 @@ Eli Mitchell,  TIER:LEGEND,  SERIAL:1,  FP:12.1,  POS:RB,  OrigPOS:RB,  SS:false
 
 Hand: 10,  contestTier: RM,  TotalFP: 74.2,  stacked: false
 Christian Kirk,  TIER:RM,  SERIAL:1,  FP:12.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
-Rashod Bateman,  TIER:RM,  SERIAL:1,  FP:12.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BAL
+Darren Waller,  TIER:RM,  SERIAL:1,  FP:12.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LV
 Jalen Hurts,  TIER:LEGEND,  SERIAL:6,  FP:24.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:PHI
 George Kittle,  TIER:LEGEND,  SERIAL:9,  FP:13.1,  POS:FLEX,  OrigPOS:TE,  SS:false,  Team:SF
 David Montgomery,  TIER:LEGEND,  SERIAL:5,  FP:12.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CHI
 
 Hand: 11,  contestTier: RM,  TotalFP: 74.1,  stacked: false
-Darren Waller,  TIER:RM,  SERIAL:1,  FP:12.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LV
 Eli Mitchell,  TIER:RM,  SERIAL:1,  FP:12.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:SF
+Rashod Bateman,  TIER:RM,  SERIAL:1,  FP:12.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:BAL
 Jalen Hurts,  TIER:LEGEND,  SERIAL:7,  FP:24.7,  POS:QB,  OrigPOS:QB,  SS:false,  Team:PHI
-Amon-Ra St. Brown,  TIER:LEGEND,  SERIAL:3,  FP:12.7,  POS:WR,  OrigPOS:WR,  SS:false,  Team:DET
+Amon-Ra St. Brown,  TIER:LEGEND,  SERIAL:3,  FP:12.7,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:DET
 DeVonta Smith,  TIER:LEGEND,  SERIAL:2,  FP:12.5,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:PHI
 
 Hand: 12,  contestTier: RM,  TotalFP: 72.6,  stacked: false
@@ -118,8 +118,8 @@ Kyle Pitts,  TIER:LEGEND,  SERIAL:1,  FP:11.9,  POS:WRTE,  OrigPOS:TE,  SS:false
 Chase Edmonds,  TIER:LEGEND,  SERIAL:3,  FP:9.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
 
 Hand: 17,  contestTier: RM,  TotalFP: 63.0,  stacked: false
-Chase Claypool,  TIER:RM,  SERIAL:1,  FP:9.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
 Nyheim Hines,  TIER:RM,  SERIAL:1,  FP:9.6,  POS:RB,  OrigPOS:RB,  SS:false,  Team:IND
+Chase Claypool,  TIER:RM,  SERIAL:1,  FP:9.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
 Derek Carr,  TIER:LEGEND,  SERIAL:4,  FP:20.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:LV
 Kyle Pitts,  TIER:LEGEND,  SERIAL:6,  FP:11.9,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ATL
 Michael Thomas,  TIER:LEGEND,  SERIAL:1,  FP:11.7,  POS:FLEX,  OrigPOS:WR,  SS:false,  Team:NO
@@ -188,14 +188,14 @@ Brandon Aiyuk,  TIER:LEGEND,  SERIAL:3,  FP:9.9,  POS:WRTE,  OrigPOS:WR,  SS:fal
 Damien Williams,  TIER:LEGEND,  SERIAL:1,  FP:6.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ATL
 
 Hand: 27,  contestTier: LEGEND,  TotalFP: 83.2,  stacked: true
-Jaire Alexander,  TIER:RM,  SERIAL:1,  FP:6.5,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:GB
+Christian Watson,  TIER:RM,  SERIAL:1,  FP:6.5,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:GB
 Patrick Mahomes II,  TIER:LEGEND,  SERIAL:6,  FP:25.2,  POS:QB,  OrigPOS:QB,  SS:true,  Team:KC
 Travis Kelce,  TIER:ELITE,  SERIAL:3,  FP:19.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
 Tee Higgins,  TIER:ELITE,  SERIAL:4,  FP:16.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CIN
 Joe Mixon,  TIER:ELITE,  SERIAL:18,  FP:15.8,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CIN
 
 Hand: 28,  contestTier: LEGEND,  TotalFP: 83.2,  stacked: true
-Christian Watson,  TIER:RM,  SERIAL:1,  FP:6.5,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:GB
+Jaire Alexander,  TIER:RM,  SERIAL:1,  FP:6.5,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:GB
 Patrick Mahomes II,  TIER:LEGEND,  SERIAL:7,  FP:25.2,  POS:QB,  OrigPOS:QB,  SS:true,  Team:KC
 Travis Kelce,  TIER:ELITE,  SERIAL:13,  FP:19.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
 Tee Higgins,  TIER:ELITE,  SERIAL:12,  FP:16.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CIN
@@ -433,14 +433,14 @@ Pat Freiermuth,  TIER:ELITE,  SERIAL:1,  FP:6.4,  POS:WRTE,  OrigPOS:TE,  SS:fal
 Damien Williams,  TIER:ELITE,  SERIAL:30,  FP:6.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ATL
 
 Hand: 62,  contestTier: LEGEND,  TotalFP: 27.7,  stacked: false
-C.J. Mosley,  TIER:LEGEND,  SERIAL:2,  FP:6.3,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:NYJ
+Quinnen Williams,  TIER:LEGEND,  SERIAL:2,  FP:6.3,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:NYJ
 Brevin Jordan,  TIER:LEGEND,  SERIAL:9,  FP:5.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:HOU
 Elijah Moore,  TIER:ELITE,  SERIAL:16,  FP:11.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYJ
 Kenneth Gainwell,  TIER:ELITE,  SERIAL:7,  FP:4.2,  POS:RB,  OrigPOS:RB,  SS:false,  Team:PHI
 Jordan Love,  TIER:ELITE,  SERIAL:1,  FP:0.5,  POS:QB,  OrigPOS:QB,  SS:false,  Team:GB
 
 Hand: 63,  contestTier: LEGEND,  TotalFP: 33.8,  stacked: false
-Quinnen Williams,  TIER:LEGEND,  SERIAL:2,  FP:6.3,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:NYJ
+C.J. Mosley,  TIER:LEGEND,  SERIAL:2,  FP:6.3,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:NYJ
 Chuba Hubbard,  TIER:LEGEND,  SERIAL:3,  FP:4.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CAR
 Amari Cooper,  TIER:ELITE,  SERIAL:19,  FP:11.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:CLE
 Corey Davis,  TIER:ELITE,  SERIAL:2,  FP:11.5,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYJ
@@ -471,13 +471,13 @@ Hand: 67,  contestTier: LEGEND,  TotalFP: 53.1,  stacked: false
 Breece Hall,  TIER:LEGEND,  SERIAL:15,  FP:6.3,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:NYJ
 Mike Davis,  TIER:LEGEND,  SERIAL:1,  FP:3.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
 Dallas Goedert,  TIER:ELITE,  SERIAL:17,  FP:11.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:PHI
-Nico Collins,  TIER:ELITE,  SERIAL:38,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
+Rondale Moore,  TIER:ELITE,  SERIAL:38,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ARI
 Joe Burrow,  TIER:RARE,  SERIAL:48,  FP:22.4,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CIN
 
 Hand: 68,  contestTier: LEGEND,  TotalFP: 51.900000000000006,  stacked: false
 Javon Hargrave,  TIER:LEGEND,  SERIAL:1,  FP:6.2,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:PHI
 Mike Davis,  TIER:LEGEND,  SERIAL:8,  FP:3.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:BAL
-Rondale Moore,  TIER:ELITE,  SERIAL:38,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:ARI
+Nico Collins,  TIER:ELITE,  SERIAL:38,  FP:10.4,  POS:WR,  OrigPOS:WR,  SS:false,  Team:HOU
 Devin Duvernay,  TIER:ELITE,  SERIAL:18,  FP:10.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BAL
 Kyler Murray,  TIER:RARE,  SERIAL:2,  FP:22.2,  POS:QB,  OrigPOS:QB,  SS:false,  Team:ARI
 
@@ -489,31 +489,31 @@ Zach Ertz,  TIER:ELITE,  SERIAL:5,  FP:9.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  
 Trey Lance,  TIER:RARE,  SERIAL:82,  FP:21.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
 
 Hand: 70,  contestTier: LEGEND,  TotalFP: 42.8,  stacked: false
-Johnathan Abram,  TIER:LEGEND,  SERIAL:2,  FP:5.5,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:LV
+Mike Hughes,  TIER:LEGEND,  SERIAL:2,  FP:5.5,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:DET
 Adam Trautman,  TIER:LEGEND,  SERIAL:2,  FP:2.3,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:NO
 Brandon Aiyuk,  TIER:ELITE,  SERIAL:29,  FP:9.9,  POS:WR,  OrigPOS:WR,  SS:false,  Team:SF
 Chuba Hubbard,  TIER:ELITE,  SERIAL:11,  FP:4.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CAR
 Trey Lance,  TIER:RARE,  SERIAL:187,  FP:21.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
 
 Hand: 71,  contestTier: LEGEND,  TotalFP: 38.8,  stacked: false
-Mike Hughes,  TIER:LEGEND,  SERIAL:2,  FP:5.5,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:DET
+Johnathan Abram,  TIER:LEGEND,  SERIAL:2,  FP:5.5,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:LV
 Richie James Jr.,  TIER:LEGEND,  SERIAL:6,  FP:1.1,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
-Chase Claypool,  TIER:ELITE,  SERIAL:12,  FP:9.6,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:PIT
+Zach Ertz,  TIER:ELITE,  SERIAL:12,  FP:9.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ARI
 Matt Breida,  TIER:ELITE,  SERIAL:20,  FP:2.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYG
 Matt Ryan,  TIER:RARE,  SERIAL:75,  FP:19.9,  POS:QB,  OrigPOS:QB,  SS:false,  Team:IND
 
-Hand: 72,  contestTier: LEGEND,  TotalFP: 28.400000000000002,  stacked: false
+Hand: 72,  contestTier: LEGEND,  TotalFP: 28.1,  stacked: false
 Johnathan Abram,  TIER:LEGEND,  SERIAL:4,  FP:5.5,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:LV
 Sam Darnold,  TIER:LEGEND,  SERIAL:1,  FP:1.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:CAR
-Zach Ertz,  TIER:ELITE,  SERIAL:12,  FP:9.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:ARI
-Chase Claypool,  TIER:ELITE,  SERIAL:26,  FP:9.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
+Chase Claypool,  TIER:ELITE,  SERIAL:12,  FP:9.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
+Kadarius Toney,  TIER:ELITE,  SERIAL:8,  FP:9.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYG
 Matt Breida,  TIER:ELITE,  SERIAL:47,  FP:2.7,  POS:RB,  OrigPOS:RB,  SS:false,  Team:NYG
 
 Hand: 73,  contestTier: LEGEND,  TotalFP: 43.7,  stacked: true
 Devin Lloyd,  TIER:LEGEND,  SERIAL:4,  FP:5.3,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:JAX
 Salvon Ahmed,  TIER:LEGEND,  SERIAL:3,  FP:1.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
 Nick Westbrook-Ikhine,  TIER:ELITE,  SERIAL:17,  FP:9.0,  POS:WR,  OrigPOS:WR,  SS:false,  Team:TEN
-Kadarius Toney,  TIER:ELITE,  SERIAL:8,  FP:9.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYG
+Kadarius Toney,  TIER:ELITE,  SERIAL:26,  FP:9.3,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:NYG
 Ryan Tannehill,  TIER:RARE,  SERIAL:16,  FP:19.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
 
 Hand: 74,  contestTier: LEGEND,  TotalFP: 39.6,  stacked: true
@@ -523,9 +523,9 @@ Chase Claypool,  TIER:ELITE,  SERIAL:26,  FP:9.6,  POS:WR,  OrigPOS:WR,  SS:fals
 Austin Hooper,  TIER:ELITE,  SERIAL:9,  FP:5.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:TEN
 Ryan Tannehill,  TIER:RARE,  SERIAL:46,  FP:19.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
 
-Hand: 75,  contestTier: ELITE,  TotalFP: 40.7,  stacked: true
+Hand: 75,  contestTier: ELITE,  TotalFP: 41.0,  stacked: true
 Wan'Dale Robinson,  TIER:LEGEND,  SERIAL:20,  FP:4.8,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:NYG
-Kadarius Toney,  TIER:ELITE,  SERIAL:26,  FP:9.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:NYG
+Chase Claypool,  TIER:ELITE,  SERIAL:26,  FP:9.6,  POS:WR,  OrigPOS:WR,  SS:false,  Team:PIT
 Austin Hooper,  TIER:ELITE,  SERIAL:26,  FP:5.6,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:TEN
 Myles Gaskin,  TIER:ELITE,  SERIAL:11,  FP:1.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
 Ryan Tannehill,  TIER:RARE,  SERIAL:88,  FP:19.1,  POS:QB,  OrigPOS:QB,  SS:false,  Team:TEN
@@ -1221,14 +1221,14 @@ Vonn Bell,  TIER:RARE,  SERIAL:2,  FP:7.7,  POS:FLEX,  OrigPOS:Def,  SS:false,  
 Myles Gaskin,  TIER:RARE,  SERIAL:43,  FP:1.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
 Jimmy Garoppolo,  TIER:RARE,  SERIAL:23,  FP:0.3,  POS:QB,  OrigPOS:QB,  SS:false,  Team:SF
 Blake Bell,  TIER:RARE,  SERIAL:37,  FP:0.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
-Mike Williams,  TIER:CORE,  SERIAL:292,  FP:14.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAC
+Terry McLaurin,  TIER:CORE,  SERIAL:292,  FP:14.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:WAS
 
 Hand: 175,  contestTier: RARE,  TotalFP: 23.9,  stacked: false
 Robbie Gould,  TIER:RARE,  SERIAL:8,  FP:7.7,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:SF
 Myles Gaskin,  TIER:RARE,  SERIAL:93,  FP:1.9,  POS:RB,  OrigPOS:RB,  SS:false,  Team:MIA
 Mike White,  TIER:RARE,  SERIAL:19,  FP:0.0,  POS:QB,  OrigPOS:QB,  SS:false,  Team:NYJ
 Blake Bell,  TIER:RARE,  SERIAL:39,  FP:0.0,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:KC
-Terry McLaurin,  TIER:CORE,  SERIAL:292,  FP:14.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:WAS
+Mike Williams,  TIER:CORE,  SERIAL:292,  FP:14.3,  POS:WR,  OrigPOS:WR,  SS:false,  Team:LAC
 
 Hand: 176,  contestTier: RARE,  TotalFP: 23.9,  stacked: false
 Matt Prater,  TIER:RARE,  SERIAL:10,  FP:7.7,  POS:FLEX,  OrigPOS:K,  SS:false,  Team:ARI
@@ -1343,14 +1343,14 @@ Christian Kirk,  TIER:CORE,  SERIAL:457,  FP:12.2,  POS:WR,  OrigPOS:WR,  SS:fal
 Rashod Bateman,  TIER:CORE,  SERIAL:3,  FP:12.1,  POS:WRTE,  OrigPOS:WR,  SS:false,  Team:BAL
 
 Hand: 192,  contestTier: CORE,  TotalFP: 67.8,  stacked: false
-Yannick Ngakoue,  TIER:RARE,  SERIAL:9,  FP:7.4,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:IND
+Stephon Gilmore,  TIER:RARE,  SERIAL:9,  FP:7.4,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:IND
 Lamar Jackson,  TIER:CORE,  SERIAL:439,  FP:23.1,  POS:QB,  OrigPOS:QB,  SS:true,  Team:BAL
 James Conner,  TIER:CORE,  SERIAL:530,  FP:13.0,  POS:RB,  OrigPOS:RB,  SS:false,  Team:ARI
 Christian Kirk,  TIER:CORE,  SERIAL:660,  FP:12.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
 Darren Waller,  TIER:CORE,  SERIAL:366,  FP:12.1,  POS:WRTE,  OrigPOS:TE,  SS:false,  Team:LV
 
 Hand: 193,  contestTier: CORE,  TotalFP: 66.9,  stacked: false
-Stephon Gilmore,  TIER:RARE,  SERIAL:9,  FP:7.4,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:IND
+Yannick Ngakoue,  TIER:RARE,  SERIAL:9,  FP:7.4,  POS:FLEX,  OrigPOS:Def,  SS:false,  Team:IND
 Lamar Jackson,  TIER:CORE,  SERIAL:456,  FP:23.1,  POS:QB,  OrigPOS:QB,  SS:true,  Team:BAL
 Christian Kirk,  TIER:CORE,  SERIAL:865,  FP:12.2,  POS:WR,  OrigPOS:WR,  SS:false,  Team:JAX
 David Montgomery,  TIER:CORE,  SERIAL:245,  FP:12.1,  POS:RB,  OrigPOS:RB,  SS:false,  Team:CHI

@@ -7,6 +7,7 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.lang.String;
 import java.util.regex.Pattern;
 
 public class Game {
@@ -52,6 +53,7 @@ public class Game {
         summaryPosition = new ArrayList<ArrayList<Position>>();
         stacked = new ArrayList<Boolean>();
         qbStackArr = new ArrayList<String>();
+        writeCurrDeck();
         writeLineUp();
         loadQbStack();
         currTier = 0;
@@ -1235,30 +1237,38 @@ public class Game {
 
 
     public void writeCurrDeck() {
+        File remainingDeck = new File("./Lineup/deck");
+        Utils.writeContents(remainingDeck, "");
+    }
+
+    public void updateCurrDeck() {
 
         shuffleTwoDecks();
         File remainingDeck = new File("./Lineup/deck");
-        if (!remainingDeck.exists()){
-            //remainingDeck.createNewFile();
-            Utils.writeContents(remainingDeck, "");
-        }
+        //if (!remainingDeck.exists()){
+        //    //remainingDeck.createNewFile();
+        //    Utils.writeContents(remainingDeck, "");
+        //}
 
+        String readRemainingDeck = Utils.readContentsAsString(remainingDeck);
 
-        String writeDeck = "RM:" + getTierCount(0) + "\n" + "Legendary:" + getTierCount(1) + "\n"
+        String writeDeck = "Hand:" + String.valueOf(hand.size()-1) + "\n" + "RM:" + getTierCount(0) + "\n" + "Legendary:" + getTierCount(1) + "\n"
                 + "Elite:" + getTierCount(2) + "\n" + "RARE:" + getTierCount(3) + "\n"
                 + "CORE:" + getTierCount(4) + "\n";
 
-        for (int ind = 0; ind < deck.getSize(); ind++) {
+        readRemainingDeck = readRemainingDeck + writeDeck + "\n";
 
-            Card card = deck.removeCard();
-            tmpDeck.addCard(card);
+        //for (int ind = 0; ind < deck.getSize(); ind++) {
 
-            String add = card.getName() + ",  TIER:" + card.getTier() + ",  SERIAL:" + card.getSerial() + ",  FP:" + card.getFP() + ",  OrigPOS:" + card.getOrigPos() + ",  SS:" + ",  Team:" + card.getTeam();
-            writeDeck = writeDeck + add + "\n";
-        }
+        //    Card card = deck.removeCard();
+        //    tmpDeck.addCard(card);
+
+        //    String add = card.getName() + ",  TIER:" + card.getTier() + ",  SERIAL:" + card.getSerial() + ",  FP:" + card.getFP() + ",  OrigPOS:" + card.getOrigPos() + ",  SS:" + ",  Team:" + card.getTeam();
+        //    writeDeck = writeDeck + add + "\n";
+        //}
         shuffleTwoDecks();
 
-        Utils.writeContents(remainingDeck, writeDeck);
+        Utils.writeContents(remainingDeck, readRemainingDeck);
 
 
     }
