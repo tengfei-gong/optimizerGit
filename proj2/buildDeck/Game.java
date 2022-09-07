@@ -210,8 +210,11 @@ public class Game {
 
         boolean atLeastBelow = false;
         int sumBelow = 0;
-        for (int i = tier+1; i <= 4; i++) {
-            sumBelow += deck.getTierCount(i);
+        //for (int i = tier+1; i <= 4; i++) {
+        //    sumBelow += deck.getTierCount(i);
+        //}
+        if (tier <4) {
+            sumBelow = deck.getTierCount(tier + 1);
         }
         //System.out.println(sumBelow);
         if (tier == 0 || tier == 1) {
@@ -237,19 +240,34 @@ public class Game {
         boolean validDeck = true;
         Tier enumTier = tierMap(tier);
         int numCardsAbove = 0;
+        int numCardsBelow = 0;
         for (int i = 0; i < 5; i++ ) {
             //Position of current hand
             if (hand.get(hand.size()-1).get(i).getTier().compareTo(enumTier) >= 0) {
                 numCardsAbove++;
             }
+
+            if (tier < 4) {
+                if (hand.get(hand.size() - 1).get(i).getTier().compareTo(tierMap(tier + 1)) == 0) {
+                    numCardsBelow++;
+                }
+            }
         }
+
+        System.out.println(numCardsBelow);
 
         if (tier == 0 || tier == 1) {
             if (numCardsAbove < 2) {
                 validDeck = false;
             }
+            if (numCardsBelow < 3) {
+                validDeck = false;
+            }
         } else if(tier == 2 || tier == 3) {
             if (numCardsAbove < 4) {
+                validDeck = false;
+            }
+            if (numCardsBelow < 1) {
                 validDeck = false;
             }
         } else {
