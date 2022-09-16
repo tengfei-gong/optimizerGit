@@ -35,6 +35,8 @@ public class Game {
     //QB to stack
     private ArrayList<String> qbStackArr;
 
+    private double maxGap = 8; // helps balance FP in one hand between tiers.
+
 
     public Game(Tier tier) {
         deck = new CardDeck();
@@ -68,6 +70,10 @@ public class Game {
         //hand[2] = new ArrayList<Card>();
 
         //initPositions();
+    }
+
+    public void resetCurrTier() {
+        currTier = 0;
     }
 
     public ArrayList<Card> getHand(int ind) {
@@ -369,6 +375,17 @@ public class Game {
         shuffleTwoDecks();
         Tier gameTier = tierMap(tier);
         int size = deck.getSize();
+
+        //Mean FP of first part
+        double meanAbove = 0;
+        int currHandSize = hand.get(hand.size()-1).size();
+        double currHandFPTotal = 0;
+        for (int i = 0; i < currHandSize; i++) {
+            currHandFPTotal += hand.get(hand.size()-1).get(i).getFP();
+        }
+        meanAbove = currHandFPTotal/currHandSize;
+
+
         for (int i = 0; i < size; i++) {
             Card card = deck.removeCard(); // highest priority card
             Position pos = card.getPos();
@@ -378,10 +395,16 @@ public class Game {
             if (card.getTier().compareTo(gameTier) < 0  // if card is of lower tier
                     && !namesVisited.get(namesVisited.size() - 1).contains(name)) { //if name not already contained
 
-                if (card.getSuperstar()) { // Just skip and move to next card.
-                        tmpDeck.addCard(card);
-                        continue;
-                    }
+                if (card.getFP() < meanAbove - maxGap || card.getFP() > meanAbove + maxGap) {
+                    tmpDeck.addCard(card);
+                    continue;
+                }
+
+
+                if (card.getSuperstar()) { // skip and move to next card.
+                    tmpDeck.addCard(card);
+                    continue;
+                }
 
                 if (!handPosition.get(handPosition.size() - 1).get(pos)) { //if position not already taken. For example WRTE is not already taken for a TE card.
                     addCardToHand(card, pos, name);
